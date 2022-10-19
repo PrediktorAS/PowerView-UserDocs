@@ -24,9 +24,9 @@ This document describes the implementation of the data collection structures and
 
 |||Energy tariff taken from internal original budget ||
 | :- | :- | - | :- |
-|Revenue Loss |Plant down time revenue loss |<p>Revenue losses due to down time on inverters (reduced plant availability) </p><p>Energy tariff taken from internal original budget </p>|X |
-|Revenue Loss |Tracker down time revenue loss |<p>Revenue losses due to non-working trackers (reduced tracker availability) </p><p>Energy tariff taken from internal original budget </p>|X |
-|Revenue Loss |String down time revenue losses |<p>Revenue losses due to non-available strings (reduced string availability) </p><p>Energy tariff taken from internal original budget </p>|X |
+|Revenue Loss |Plant down time revenue loss |<p>Revenue losses due to down time on inverters (reduced plant availability) </p> <p>Energy tariff taken from internal original budget </p>|X |
+|Revenue Loss |Tracker down time revenue loss |<p>Revenue losses due to non-working trackers (reduced tracker availability) </p> <p>Energy tariff taken from internal original budget </p>|X |
+|Revenue Loss |String down time revenue losses |<p>Revenue losses due to non-available strings (reduced string availability) </p> <p>Energy tariff taken from internal original budget </p>|X |
 |Revenue Loss |String down time revenue losses |<p>Revenue losses due to plant curtailment </p><p>Energy tariff taken from internal original budget </p>|X |
 |Revenue Loss |Curtailment revenue losses |<p>Revenue losses due to plant clipping </p><p>Energy tariff taken from internal original budget </p>|X |
 |Revenue Loss |Clipping revenue losses |<p>Revenue losses due to panel soiling </p><p>Energy tariff taken from internal original budget </p>|X |
