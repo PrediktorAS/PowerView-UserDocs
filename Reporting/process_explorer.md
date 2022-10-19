@@ -1,6 +1,6 @@
 
+# APIS Process Explorer
 
-#APIS Process Explorer
 APIS Process Explorer shows graphical trends from the APIS Historian database. Java must be installed on computer to open application.
 
 Data is per default presented as a time chart. Data can be exported to csv file and imported into e.g. Excel.

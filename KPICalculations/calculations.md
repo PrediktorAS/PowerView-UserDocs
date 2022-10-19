@@ -1,4 +1,7 @@
 # KPI CALCULATIONS
+
+This document describes the implementation of the data collection structures and calculations implemented in SCADA to calculate the different KPI’s.
+
 |**KPI Type** |**KPI name** |**KPI description** |**Default** |
 | - | - | - | - |
 |Yield and Weather |Actual Production  |Production for plant. Aggregated from energy meters and possibly manually corrected in correction page |X |
