@@ -7,5 +7,3 @@ Each user has one or more system roles, which defines the access level when ente
 Contact system administrator at PowerView to change access rights to system.
 
 Note that the user name and password are not common between plant and central system. You need ask for user for both of them.
-
- 
