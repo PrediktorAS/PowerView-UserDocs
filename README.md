@@ -3,8 +3,13 @@ This is a repository for holding the common help system for PowerView.
 
 
 # Getting Started
-Add existing help from misc clients
-Rework all help files.
+<p>Add existing help from misc clients
+<br>Rework all help files.
+<br>Keep book structured. Use folders for grouping related content, i.e KPICalculations.
+</p>
+<p>SUMMARY.md is building the menu-structure of the book so new content need to be added to
+<br>this file.
+</p>
 
 # Contribute
 To contribute to the help-files, please update any errors or improvements
