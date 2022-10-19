@@ -1,0 +1,7 @@
+[book]
+title = "PowerView Help"
+authors = ["Morten Bogetvedt"]
+language = "en"
+description = "Help system for Prediktor PowerView"
+multilingual = false
+src = "."
