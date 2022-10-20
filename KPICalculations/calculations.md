@@ -4,12 +4,12 @@ This document describes the implementation of the data collection structures and
 
 |**KPI Type** |**KPI name** |**KPI description** |**Default** |
 | - | - | - | - |
-|Yield and Weather |Actual Production  |Production for plant. Aggregated from energy meters and possibly manually corrected in correction page |X |
+|Yield and Weather |[Actual Production](yieldweathercalc.md#actualproduction)  |Production for plant. Aggregated from energy meters and possibly manually corrected in correction page |X |
 |Yield and Weather |Estimated Production  |Estimated production based on weather data measurements |X |
 |Yield and Weather |Incline Irradiation |Accumulated incline irradiation energy. Calculated from plant sensors, possibly backfilled from external weather source. Can also be manually corrected in correction page. |X |
 |Yield and Weather |Horizontal Irradiation |Accumulated horizontal irradiation energy. Calculated from plant sensors, possibly backfilled from external weather source. Can also be manually corrected in correction page. |X |
 |Yield and Weather |Transposition Factor |Relation between incline and horizontal irradiation |X |
-|Yield and Weather |Module Temperature |Different calculations based on module temperature measurements and incline irradiation.  |X |
+|Yield and Weather |[Module Temperature](yieldweathercalc.md#moduletemp) |Different calculations based on module temperature measurements and incline irradiation.  |X |
 |Yield and Weather |Soiling Index |Plant soiling index, from 0-100. Average value calculated from soiling stations or reference cells |X |
 |Yield and Weather |Budget Production |Budget production for a plant.  |X |
 |Yield and Weather |Budget Irradiation |Budget incline irradiation for a plant |X |
