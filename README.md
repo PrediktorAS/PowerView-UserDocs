@@ -23,8 +23,6 @@ To generate the book in an other folder than the source, please use the --dest-d
 _Example: mdbook build "c:\PowerViewHelp\PowerView-Solar-Help" --dest-dir ../PViewHelp_
 This will look for the code in c:\PowerviewHelp\PowerView-Solar-Help and generate the html to the folder c:\PowerViewHelp\PViewHelp
 
-
-
 [This link](https://rust-lang.github.io/mdBook/cli/build.html) shows how to build the book.
 
 ## Useful tools
@@ -42,3 +40,5 @@ If you want to learn more about creating good readme files then refer the follow
 * [ASP.NET Core](https://github.com/aspnet/Home)
 * [Visual Studio Code](https://github.com/Microsoft/vscode)
 * [Chakra Core](https://github.com/Microsoft/ChakraCore)
+
+Test
