@@ -2,21 +2,22 @@
 
 This is a repository for holding the common help system for PowerView.
 
-# Getting Started
+## Getting Started
 
-<p>Add existing help from misc clients
-<br>Rework all help files.
-<br>Keep book structured. Use folders for grouping related content, i.e KPICalculations.
-</p>
-<p>SUMMARY.md is building the menu-structure of the book so new content need to be added to
-<br>this file.
-</p>
+Add existing help from misc clients
+Rework all help files.
+Keep book structured. Use folders for grouping related content, i.e KPICalculations.
 
-# Contribute
+SUMMARY.md is building the menu-structure of the book so new content need to be added to
+this file.
+
+
+## Contribute
 
 To contribute to the help-files, please update any errors or improvements
 
-# Generate book
+## Generate book
+
 To generate a book for the help-files, use [MDBook](https://rust-lang.github.io/mdBook/).
 
 To generate the book in an other folder than the source, please use the --dest-dir attribute.
@@ -25,7 +26,7 @@ This will look for the code in c:\PowerviewHelp\PowerView-Solar-Help and generat
 
 [This link](https://rust-lang.github.io/mdBook/cli/build.html) shows how to build the book.
 
-## Useful tools
+### Useful tools
 
 For Visual Studio Code, the following extentions are reccomended
 
