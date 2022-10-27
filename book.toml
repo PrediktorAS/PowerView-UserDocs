@@ -5,3 +5,4 @@ language = "en"
 description = "Help system for Prediktor PowerView"
 multilingual = false
 src = "."
+dest-dir = "../PViewHelp"
