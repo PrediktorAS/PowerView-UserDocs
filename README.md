@@ -11,7 +11,6 @@ Keep book structured. Use folders for grouping related content, i.e KPICalculati
 SUMMARY.md is building the menu-structure of the book so new content need to be added to
 this file.
 
-
 ## Contribute
 
 To contribute to the help-files, please update any errors or improvements
