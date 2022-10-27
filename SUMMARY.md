@@ -6,6 +6,7 @@
   - [Monitoring Screens](Web%20Portal/Monitoring%20Screens/Screen%20Basics.md)
     - [Screen Basics](Web%20Portal/Monitoring%20Screens/Screen%20basics.md)
     - [Navigation in screens](Web%20Portal/Monitoring%20Screens/Navigation%20in%20screens.md)
+    - [Trend Curves](Web%20Portal/Monitoring%20Screens/Trend%20curves.md)
     - [Alarm Lists](Web%20Portal/Monitoring%20Screens/Alarm%20lists.md)
 
 - [REPORTING](Reporting/reporting.md)
