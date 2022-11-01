@@ -1,8 +1,14 @@
 # PowerView Help system
 
 - [Web Portal](Web%20Portal/webportal.md)
-  - [Web portal basics](Web%20Portal/Web%20Portal%20Basics.md)
+  - [Web Portal Basics](Web%20Portal/Web%20Portal%20Basics.md)
   - [User Access](Web%20Portal/UserAccess.md)
+  - [Monitoring Screens Basic](Web%20Portal/Monitoring%20screens%20basic.md)
+  - [Reporting Basics](Web%20Portal/Reporting%20basics.md)
+  - [Manual Data Registration](Web%20Portal/Manual%20data%20registration.md)
+  - [Time Zones](Web%20Portal/Time%20zones.md)
+  - [Chrome Language Settings](Web%20Portal/Chrome%20language%20settings.md)
+  - [AdoptOpenJDK Java Installation](Web%20Portal/Adoptopenjdk%20java%20installation.md)
   - [Monitoring Screens](Web%20Portal/Monitoring%20Screens/Screen%20Basics.md)
     - [Screen Basics](Web%20Portal/Monitoring%20Screens/Screen%20basics.md)
     - [Navigation in screens](Web%20Portal/Monitoring%20Screens/Navigation%20in%20screens.md)
@@ -15,7 +21,7 @@
     - [Historical Charts](Web%20Portal/Monitoring%20Screens/Historical%20charts.md)
     - [Gauges and dynamic bar charts](Web%20Portal/Monitoring%20Screens/Gauges%20and%20dynamic%20bar%20charts.md)
 
-- [REPORTING](Reporting/reporting.md)
+- [Reporting](Reporting/reporting.md)
   - [Process Explorer](Reporting/process_explorer.md)
   - [KPI Calculations](Reporting/KPICalculations/calculations.md)
     - [Yield and Weather Calculations](Reporting/KPICalculations/yieldweathercalc.md)
