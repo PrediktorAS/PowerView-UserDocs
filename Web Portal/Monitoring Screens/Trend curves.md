@@ -2,7 +2,7 @@
 
 Trend curves shown in the screens display real time trend information for a set of data tags. The curves are filled with historical data at load time, and then updated with real time data as long as the screen is displayed.
 
-In top of the graph, tag information is shown. This can be different information from each graph, but in general tag nam/description, value and unit is shown. Color is same as the curve color. If not all tags are shown, you can scroll to the left of the list. You can also show more tags, by expanding the list in the bottom. Hold the mouse over the wide line, will open the double arrow and make it possible to expand the list.
+In top of the graph, tag information is shown. This can be different information from each graph, but in general tag name/description, value and unit is shown. Color is same as the curve color. If not all tags are shown, you can scroll to the left of the list. You can also show more tags, by expanding the list in the bottom. Hold the mouse over the wide line, will open the double arrow and make it possible to expand the list.
 
 Pressing the  button in top right corner hides the tag list. Pressing the  again, shows the list.
 
