@@ -99,3 +99,11 @@
     - [Deemed Energy Calculation](Reporting/KPICalculations/Deemed%20energy%20calculation.md)
     - [Production Losses](Reporting/KPICalculations/Production%20losses.md)
     - [Curtailment Losses](Reporting/KPICalculations/Curtailment%20losses.md)
+
+- [System Setup](System%20setup/System%20setup.md)
+  - [System Setup Introduction](System%20setup/System%20setup%20introduction.md)
+  - [Equipment Parameters General](System%20setup/Equipment%20parameters%20general.md)
+  - [Plant Parameters General](System%20setup/Plant%20parameters%20general.md)
+  - [Inverter Parameters General](System%20setup/Inverter%20parameters%20general.md)
+  - [Equipment Stop Codes General](System%20setup/Equipment%20stop%20codes%20general.md)
+  - [Meter Parameters General](System%20setup/Meter%20parameters%20general.md)
