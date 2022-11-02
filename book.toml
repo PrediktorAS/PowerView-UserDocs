@@ -1,8 +1,12 @@
 [book]
 title = "PowerView Help"
-authors = ["Morten Bogetvedt"]
+authors = ["Morten Bogetvedt", "Henrik Bækhus"]
 language = "en"
 description = "Help system for Prediktor PowerView"
 multilingual = false
 src = "."
 dest-dir = "../PViewHelp"
+
+[output.html.fold]
+enable = true    # whether or not to enable section folding
+level = 0        # the depth to start folding
