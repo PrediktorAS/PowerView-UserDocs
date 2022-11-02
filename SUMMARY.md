@@ -107,3 +107,8 @@
   - [Inverter Parameters General](System%20setup/Inverter%20parameters%20general.md)
   - [Equipment Stop Codes General](System%20setup/Equipment%20stop%20codes%20general.md)
   - [Meter Parameters General](System%20setup/Meter%20parameters%20general.md)
+
+- [Portal Administration](Portal%20administration/Portal%20administration.md)
+  - [User Administration](Portal%20administration/User%20administration.md)
+  - [Menu And Portal Pages](Portal%20administration/Menu%20and%20portal%20pages.md)
+  - [APIS Quick Reports](Portal%20administration/APIS%20quick%20reports.md)
