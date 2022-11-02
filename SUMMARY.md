@@ -74,6 +74,12 @@
   - [PView - Inverter Details](Central%20solution/Pview%20inverter%20details.md)
   - [PView - String Monitor Overview](Central%20solution/Pview%20string%20monitor%20overview.md)
 
+- [Manual Data Input](Manual%20data%20input/Manual%20data%20input.md)
+  - [Equipment Downtime (state) Registration](Manual%20data%20input/Equipment%20downtime%20registration.md)
+  - [Planned Power Reduction Registration](Manual%20data%20input/Planned%20power%20reduction%20registration.md)
+  - [Planned Outages Registration](Manual%20data%20input/Planned%20outages%20registration.md)
+  - [Daily Plant Report](Manual%20data%20input/Daily%20plant%20report.md)
+
 - [Reporting](Reporting/reporting.md)
   - [Process Explorer](Reporting/process_explorer.md)
   - [KPI Calculations](Reporting/KPICalculations/calculations.md)
