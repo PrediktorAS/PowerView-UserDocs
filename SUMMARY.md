@@ -112,3 +112,12 @@
   - [User Administration](Portal%20administration/User%20administration.md)
   - [Menu And Portal Pages](Portal%20administration/Menu%20and%20portal%20pages.md)
   - [APIS Quick Reports](Portal%20administration/APIS%20quick%20reports.md)
+
+- [Forecasting](Forecasting/Forecasting.md)
+  - [Forecasting Principles](Forecasting/Forecasting%20principles.md)
+  - [PVSYST Forecast](Forecasting/PVSYST%20forecast.md)
+  - [SolarGIS Forecast](Forecasting/SolarGIS%20forecast.md)
+  - [Owner Budget Data](Forecasting/Owner%20budget%20data.md)
+
+- [General Plant Monitoring](General%20plant%20monitoring/General%20plant%20monitoring.md)
+  - [General App Concepts](General%20plant%20monitoring/General%20app%20concepts.md)
