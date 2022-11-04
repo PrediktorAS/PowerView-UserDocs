@@ -7,7 +7,7 @@ The screen contains links and navigation elements to navigate to other related p
 Following main data presentation elements are found in the screens:
 
 * Dynamic numeric and text values
-* Dynamic and static images
+* [Dynamic and static images](Gauges%20and%20dynamic%20bar%20charts.md)
 * Bar graphs
 * [Alarm lists](Alarm%20lists.md)
 * Dynamic trend graphs
