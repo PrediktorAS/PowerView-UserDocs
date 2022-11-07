@@ -1,3 +1,5 @@
+[//]: # (MBo: Fra KPI Calculations.pdf)
+
 # Availability Calculations
 
 This chapter describes how the availability is calculated in the SCADA application. The following availabilities are calculated:

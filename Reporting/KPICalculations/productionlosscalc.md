@@ -1,3 +1,5 @@
+[//]: # (MBo: Fra KPI Calculations.pdf)
+
 # Production Loss Calculations
 
 Production loss based on grid and inverter is calculated based on data from plants and stored in separate tables in the data warehouse for easy reporting. Data is updated when inverter state or other parameters are changed manually.
