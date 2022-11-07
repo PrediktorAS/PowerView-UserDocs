@@ -1,0 +1,1 @@
+# Deemed Energy Calculation
