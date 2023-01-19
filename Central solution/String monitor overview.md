@@ -1,5 +1,10 @@
 # String Monitor Overview
 
+
+String monitoring overview page us a overlook of the all strings that are connected to inveter and than that inverter is connected to a transformer.
+
+The bars are connected to the hourly avereage current value of the current channals of a string and infront of each bar there is hourly power sum value of the respective current channals.
+
 Shows string monitor data for plant.
 
 Clicking on one of the bars open details for the strings on a specific inverter.
