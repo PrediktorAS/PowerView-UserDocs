@@ -3,6 +3,7 @@
 
 String monitoring overview page us a overlook of the all strings that are connected to inveter and than that inverter is connected to a transformer.
 The bars are connected to the hourly avereage current value of the current channals of a string and infront of each bar there is hourly average power value of the respective current channals.
+The power value above all bars shows the hourly average power sum of all strings.
 
 Shows string monitor data for plant.
 
