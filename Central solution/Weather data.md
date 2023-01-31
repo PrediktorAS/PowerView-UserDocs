@@ -1,6 +1,6 @@
 # Weather Data
 
-Shows weather data for plant.
+Shows the weather data for plant.
 
 Example from Norway Oslo below with explanations.
 

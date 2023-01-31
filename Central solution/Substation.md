@@ -1,6 +1,6 @@
 # Substation
 
-Shows substation metering and status values.
+Shows the substation metering and status values.
 
 Example from Norway Oslo below with explanations.
 
