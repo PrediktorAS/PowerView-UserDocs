@@ -2,7 +2,7 @@
 
 Shows current alarm state for alarms on plant.
 
-Alarm area filter show all alarm, Plant alarms and communication alarms and selcet it. 
+Alarm area filter show all alarm, Plant alarms and communication alarms and select it. 
 
 Alarm area filter: where we can select the module and individual alarms can show.
 
