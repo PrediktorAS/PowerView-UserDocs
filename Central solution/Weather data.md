@@ -8,7 +8,7 @@ Weather station Measurements table include incline irradiation, ambient temp, Wi
 
 Weather station Measurements table contains average data between all the module that are available.
 
-Weather data page have Historical chart or trends of better graphical representaion of substation plant for visualization and analysis.
+Weather data page have Historical chart or trends of better graphical representaion of weather module data for visualization and analysis.
 
 Example from Norway Oslo below with explanations.
 
