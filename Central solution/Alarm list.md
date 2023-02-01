@@ -1,10 +1,10 @@
 # Alarm List
 
-Shows current alarm state for alarms on plant.
+The alarmlist shows current alarm state for alarms on plant.
 
-Alarm area filter show all alarm, Plant alarms and communication alarms and select it. 
+Alarm area filter: where we can select alarm area that is Plant alarms and communication alarms. 
 
-Alarm area filter: where we can select the module and individual alarms can show.
+Alarm source filter: where we can select the module and individual alarms can show.
 
 Nuumbers of alarms in list where can put the number is alarms show in a list.
 
