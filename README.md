@@ -13,7 +13,13 @@ this file.
 
 ## Contribute
 
-To contribute to the help-files, please update any errors or improvements
+To contribute to the help-files, please update any errors or improvements.
+To do this:
+
+1. Create a fork of the main branch. Try to give it a meaningfull name.
+2. Do your changes to existing documentation or add new.
+3. Do a pull-request to get your changes merged with the main branch. For now, add Henrik Bækhus and Morten Bogetvedt as reviewers.
+4. You are done!
 
 ## Generate book
 
