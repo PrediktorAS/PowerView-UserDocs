@@ -1,1 +1,0 @@
-New structure for Powerview Help is held in this folder.
