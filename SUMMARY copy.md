@@ -183,3 +183,4 @@
       - [String Monitor Report](Central%20web%20portal/Report%20guide/Manual%20data%20registrations/String%20monitor%20report.md)
       - [String Monitor Report Interval](Central%20web%20portal/Report%20guide/Manual%20data%20registrations/String%20monitor%20report%20interval.md)
       - [Weather Data Details](Central%20web%20portal/Report%20guide/Manual%20data%20registrations/Weather%20data%20details.md)
+      Change
