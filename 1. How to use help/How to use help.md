@@ -1,0 +1,1 @@
+https://dev.azure.com/PrediktorDevOps/Operations/_git/PowerView-Solar-Help?path=/1.%20How%20to%20use%20help/How%20to%20use%20help.md&version=GBAsim2
