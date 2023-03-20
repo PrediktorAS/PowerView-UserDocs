@@ -92,7 +92,84 @@
       -[5.3.2 Dashboards](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.2%20Dashboards/Dashboards.md)
       -[5.3.3 Standard Reports & Dashboards](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/Standard%20Reports%20%26%20Dashboards.md)
          -[5.3.3.1 Daily management report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.1%20Daily%20management%20report/Daily%20management%20report.md)
-         -[5.3.3.2 Weekly management report]()
+         -[5.3.3.2 Weekly management report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.2%20Weekly%20management%20report/Weekly%20management%20report.md)
+         -[5.3.3.3 Portfolio KPI Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.3%20Portfolio%20KPI%20Report/Portfolio%20KPI%20Report.md)
+         -[5.3.3.4 Plant KPI Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.4%20Plant%20KPI%20Report/Plant%20KPI%20Report.md)
+         -[5.3.3.5 Availability Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.5%20Availability%20Report/Availability%20Report.md)
+         -[5.3.3.6 Performance Ratio Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.6%20Performance%20Ratio%20Report/Performance%20Ratio%20Report.md)
+         -[5.3.3.7 Energy Production Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.7%20Energy%20Production%20Report/Energy%20Production%20Report.md)\
+         -[5.3.3.8 Weather Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.8%20Weather%20Report/Weather%20Report.md)
+         -[5.3.3.9 Meter Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.9%20Meter%20Report/Meter%20Report%20.md)
+         -[5.3.3.10 Plant Details](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.10%20Plant%20Details/Plant%20Details.md)
+         -[5.3.3.11 Inverter Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.11%20Inverter%20Report/Inverter%20Report.md)
+         -[5.3.3.12 Tracker Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.12%20Tracker%20Report/Tracker%20Report.md)
+         -[5.3.3.13 Budget report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.13%20Budget%20report/Budget%20report.md)
+         -[5.3.3.14 Actual vs Budget Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.14%20Actual%20vs%20Budget%20Report/Actual%20vs%20Budget%20Report.md)
+         -[5.3.3.15 Forecast Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.15%20Forecast%20Report/Forecast%20Report.md)
+         -[5.3.3.16 CO2 Emission Report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.16%20CO2%20Emission%20Report/CO2%20Emission%20Report.md)
+         -[5.3.3.17 Plant KPI Dashboard](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.17%20Plant%20KPI%20Dashboard/Plant%20KPI%20Dashboard.md)
+         -[5.3.3.18 Data Quality KPI](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.18%20Data%20Quality%20KPI/Data%20Quality%20KPI.md)
+         -[5.3.3.19 Data Quality Details](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.19%20Data%20Quality%20Details/Data%20Quality%20Details.md)
+         -[5.3.3.20 Production Losses](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.20%20Production%20Losses/Production%20Losses.md)
+         -[5.3.3.21 Losses Waterfall Dashboard](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.21%20Losses%20Waterfall%20Dashboard/Losses%20Waterfall%20Dashboard.md)
+         -[5.3.3.22 Performance Ratio](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.22%20Performance%20Ratio/Performance%20Ratio.md)
+         -[5.3.3.23 Inverter Performance](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.23%20Inverter%20Performance/Inverter%20Performance.md)
+         -[5.3.3.24 Inverter Performance Trend](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.24%20Inverter%20Performance%20Trend/Inverter%20Performance%20Trend.md)
+         -[5.3.3.25 Inverter Downtime](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.25%20Inverter%20Downtime/Inverter%20Downtime.md)
+         -[5.3.3.26 String Performance](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.26%20String%20Performance/String%20Performance.md)
+         -[5.3.3.26 String Performance](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.26%20String%20Performance/String%20Performance.md)
+         -[5.3.3.27 String Performance Trend](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.26%20String%20Performance/String%20Performance.md)
+         -[5.3.3.28 Tracker Deviation](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.28%20Tracker%20Deviation/Tracker%20Deviation.md)
+         -[5.3.3.29 Plant Clipping](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.29%20Plant%20Clipping/Plant%20Clipping.md)
+         -[5.3.3.30 Plant Curtailment](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.30%20Plant%20Curtailment/Plant%20Curtailment.md)
+         -[5.3.3.31 Plant Soiling](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.31%20Plant%20Soiling/Plant%20Soiling.md)
+         -[5.3.3.32 Weather Sensor Details](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.32%20Weather%20Sensor%20Details/Weather%20Sensor%20Details.md)
+         -[5.3.3.33 External Weather Data](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.33%20External%20Weather%20Data/External%20Weather%20Data.md)
+   -[5.4 Manual Data Registration](5%20User%20Interfaces/5.4%20Manual%20Data%20Registration/Manual%20Data%20Registration.md)
+      -[5.4.1 Irradiation Correction](5%20User%20Interfaces/5.4%20Manual%20Data%20Registration/5.4.1%20Irradiation%20Correction/Irradiation%20Correction.md)
+      -[5.4.2 Budget Input](5%20User%20Interfaces/5.4%20Manual%20Data%20Registration/5.4.2%20Budget%20Input/Budget%20Input.md)
+      -[5.4.3 Daily Plant Comments](5%20User%20Interfaces/5.4%20Manual%20Data%20Registration/5.4.3%20Daily%20Plant%20Comments/Daily%20Plant%20Comments.md)
+      -[5.4.4 Plant Status](5%20User%20Interfaces/5.4%20Manual%20Data%20Registration/5.4.4%20Plant%20Status/Plant%20Status.md)
+      -[5.4.5 Weather Data Correction](5%20User%20Interfaces/5.4%20Manual%20Data%20Registration/5.4.5%20Weather%20Data%20Correction/Weather%20Data%20Correction.md)
+      -[5.4.6 Snow Loss Correction](5%20User%20Interfaces/5.4%20Manual%20Data%20Registration/5.4.6%20Snow%20Loss%20Correction/Snow%20Loss%20Correction.md)
+      -[5.4.7 Soiling Loss Correction](5%20User%20Interfaces/5.4%20Manual%20Data%20Registration/5.4.7%20Soiling%20Loss%20Correction/Soiling%20Loss%20Correction.md)
+   -[5.5 Forecasting](5%20User%20Interfaces/5.5%20Forecasting/Forecasting.md)
+      -[5.5.1 Data Sources and Processing](5%20User%20Interfaces/5.5%20Forecasting/5.5.1%20Data%20Sources%20and%20Processing/Data%20Sources%20and%20Processing.md)
+      -[5.5.2 Reporting](5%20User%20Interfaces/5.5%20Forecasting/5.5.2%20Reporting/Reporting.md)
+      -[5.5.3 Planned Power Reduction](5%20User%20Interfaces/5.5%20Forecasting/5.5.3%20Planned%20Power%20Reduction/Planned%20Power%20Reduction.md)
+      -[5.5.4 Setup and Administration](5%20User%20Interfaces/5.5%20Forecasting/5.5.4%20Setup%20and%20Administration/Setup%20and%20Administration.md)
+   -[5.6 Ticketing](5%20User%20Interfaces/5.6%20Ticketing/Ticketing.md)
+      -[5.6.1 Ticket Generation](5%20User%20Interfaces/5.6%20Ticketing/5.6.1%20Ticket%20Generation/Ticket%20Generation.md)
+   -[5.7 Process Explorer Trend Viewer](5%20User%20Interfaces/5.7%20Process%20Explorer%20Trend%20Viewer/Process%20Explorer%20Trend%20Viewer.md)
+
+
+-[6 Accessing Data – API’s](6%20Accessing%20Data%20–%20API’s/Accessing%20Data%20–%20API’s.md)
+   -[6.1 Data Sources](6%20Accessing%20Data%20–%20API’s/6.1%20Data%20Sources/Data%20Sources.md)
+      -[6.1.1 Time Series Data](6%20Accessing%20Data%20–%20API’s/6.1%20Data%20Sources/6.1.1%20Time%20Series%20Data/Time%20Series%20Data.md)
+      -[6.1.2 UA Information Model](6%20Accessing%20Data%20–%20API’s/6.1%20Data%20Sources/6.1.2%20UA%20Information%20Model/UA%20Information%20Model.md)
+      -[6.1.3 Data Warehouse](6%20Accessing%20Data%20–%20API’s/6.1%20Data%20Sources/6.1.3%20Data%20Warehouse/Data%20Warehouse.md)
+   -[6.2 Python API’s](6%20Accessing%20Data%20–%20API’s/6.2%20Python%20API’s/Python%20API’s.md)
+   -[6.3 REST API’s](6%20Accessing%20Data%20–%20API’s/6.3%20REST%20API’s/REST%20API’s.md)
+   -[6.4 OPC UA](6%20Accessing%20Data%20–%20API’s/6.4%20OPC%20UA/OPC%20UA.md)
+
+-[7 System Administration](7%20System%20Administration/System%20Administration.md)   
+   -[7.1 User Access](7%20System%20Administration/7.1%20User%20Access/User%20Access.md)
+   -[7.2 Menu Setup](7%20System%20Administration/7.2%20Menu%20Setup/Menu%20Setup.md)
+
+-[8 System Configuration](8%20System%20Configuration/System%20Configuration.md)
+   -[8.1 Plant Setup](8%20System%20Configuration/8.1%20Plant%20Setup/Plant%20Setup.md)
+   -[8.2 Report & Dashboards](8%20System%20Configuration/8.2%20Report%20%26%20Dashboards/Report%20%26%20Dashboards.md)
+   -[8.3 Alarms](8%20System%20Configuration/8.3%20Alarms/Alarms.md)
+
+
+
+
+   
+
+
+
+
+
 
 
 
