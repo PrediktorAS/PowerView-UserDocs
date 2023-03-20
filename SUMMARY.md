@@ -55,6 +55,54 @@
             -[4.3.4.6 Curtailment production losses](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.4%20Production%20Losses/4.3.4.6%20Curtailment%20production%20losses/Curtailment%20production%20losses.md)
             -[4.3.4.7 Clipping production losses](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.4%20Production%20Losses/4.3.4.7%20Clipping%20production%20losses/Clipping%20production%20losses.md)
             -[4.3.4.8 Snow production losses](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.4%20Production%20Losses/4.3.4.8%20Snow%20production%20losses/Snow%20production%20losses.md)
+         -[4.3.5 Equipment Specific](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.5%20Equipment%20Specific/Equipment%20Specific.md)
+            -[4.3.5.1 Inverter](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.5%20Equipment%20Specific/4.3.5.1%20Inverter/Inverter.md)
+            -[4.3.5.2 String](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.5%20Equipment%20Specific/4.3.5.2%20String/String.md)
+            -[4.3.5.3 Tracker](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.5%20Equipment%20Specific/4.3.5.3%20Tracker/Tracker.md)
+         -[4.3.6 Data Quality](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.6%20Data%20Quality/Data%20Quality.md)
+            -[4.3.6.1 Data Quality KPI](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.6%20Data%20Quality/4.3.6.1%20Data%20Quality%20KPI/Data%20Quality%20KPI.md)
+         -[4.3.7 Others](4.%20Data%20Processing/4.3%20KPI%20Calculations/4.3.7%20Others/Others.md)
+      -[4.4 Advanced Analytics](4.%20Data%20Processing/4.4%20Advanced%20Analytics/Advanced%20Analytics.md)
+         -[4.4.1 String Performance](4.%20Data%20Processing/4.4%20Advanced%20Analytics/4.4.1%20String%20Performance/String%20Performance.md)
+         -[4.4.2 Degradation Analysis](4.%20Data%20Processing/4.4%20Advanced%20Analytics/4.4.2%20Degradation%20Analysis/Degradation%20Analysis.md)
+         -[4.4.3 Soiling Estimation](4.%20Data%20Processing/4.4%20Advanced%20Analytics/4.4.3%20Soiling%20Estimation/Soiling%20Estimation.md)
+      -[4.5 Forecast Data](4.%20Data%20Processing/4.5%20Forecast%20Data/Forecast%20Data.md)
+      -[4.6 Satellite Weather Data](4.%20Data%20Processing/4.6%20Satellite%20Weather%20Data/Satellite%20Weather%20Data.md)
+      -[4.7 Budget Data](4.%20Data%20Processing/4.7%20Budget%20Data/Budget%20Data.md)
+
+-[5 User Interfaces](5%20User%20Interfaces/User%20Interfaces.md)
+   -[5.1 Using the PowerView Portal](5%20User%20Interfaces/5.1%20Using%20the%20PowerView%20Portal/Using%20the%20PowerView%20Portal.md)
+      -[5.1.1 User Access](5%20User%20Interfaces/5.1%20Using%20the%20PowerView%20Portal/5.1.1%20User%20Access/User%20Access.md)
+         -[5.1.2 Time Zones](5%20User%20Interfaces/5.1%20Using%20the%20PowerView%20Portal/5.1.2%20Time%20Zones/Time%20Zones.md)
+         -[5.1.3 Language and Engineering Units](5%20User%20Interfaces/5.1%20Using%20the%20PowerView%20Portal/5.1.3%20Language%20and%20Engineering%20Units/Language%20and%20Engineering%20Units.md)
+   -[5.2 Monitoring & Control](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/Monitoring%20%26%20Control.md)
+      -[5.2.1 Monitoring](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.1%20Monitoring/Monitoring.md)
+         -[5.2.1.1 Screen Visualizations](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.1%20Monitoring/5.2.1.1%20Screen%20Visualizations/Screen%20Visualizations.md)
+         -[5.2.1.2 Screen Navigation](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.1%20Monitoring/5.2.1.2%20Screen%20Navigation/Screen%20Navigation.md)
+         -[5.2.1.3 Trend Curves](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.1%20Monitoring/5.2.1.3%20Trend%20Curves/Trend%20Curves.md)
+         -[5.2.1.4 Alarm Lists](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.1%20Monitoring/5.2.1.4%20Alarm%20Lists/Alarm%20Lists.md)
+      -[5.2.2 Control](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.2%20Control/Control.md)
+      -[5.2.3 Alarms & Events](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.3%20Alarms%20%26%20Events/Alarms%20%26%20Events.md)
+      -[5.2.4 Standard Screens](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.4%20Standard%20Screens/Standard%20Screens.md)
+         -[5.2.4.1 World map](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.4%20Standard%20Screens/5.2.4.1%20World%20map/World%20map.md)
+         -[5.2.4.2 Portfolio Overview](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.4%20Standard%20Screens/5.2.4.2%20Portfolio%20Overview/Portfolio%20Overview.md)
+         -[5.2.4.3 Attention Screen](5%20User%20Interfaces/5.2%20Monitoring%20%26%20Control/5.2.4%20Standard%20Screens/5.2.4.3%20Attention%20Screen/Attention%20Screen.md)
+   -[5.3 Reports & Dashboards](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/Reports%20%26%20Dashboards.md)
+      -[5.3.1 Paginated Reports](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.1%20Paginated%20Reports/Paginated%20Reports.md)
+      -[5.3.2 Dashboards](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.2%20Dashboards/Dashboards.md)
+      -[5.3.3 Standard Reports & Dashboards](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/Standard%20Reports%20%26%20Dashboards.md)
+         -[5.3.3.1 Daily management report](5%20User%20Interfaces/5.3%20Reports%20%26%20Dashboards/5.3.3%20Standard%20Reports%20%26%20Dashboards/5.3.3.1%20Daily%20management%20report/Daily%20management%20report.md)
+         -[5.3.3.2 Weekly management report]()
+
+
+
+
+        
+       
+
+      
+
+
 
 
 
