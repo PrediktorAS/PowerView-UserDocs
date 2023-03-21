@@ -1,1 +1,0 @@
-# UA Information Model

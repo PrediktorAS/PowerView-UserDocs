@@ -1,1 +1,0 @@
-# Soiling Loss Correction
