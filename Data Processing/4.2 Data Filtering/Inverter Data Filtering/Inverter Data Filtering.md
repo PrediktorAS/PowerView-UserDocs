@@ -1,1 +1,0 @@
-# Inverter Data Filtering

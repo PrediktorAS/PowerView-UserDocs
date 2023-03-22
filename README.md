@@ -26,7 +26,9 @@ To do this:
 To generate a book for the help-files, use [MDBook](https://rust-lang.github.io/mdBook/).
 
 To generate the book in an other folder than the source, please use the --dest-dir attribute.
-_Example: mdbook build "c:\PowerViewHelp\PowerView-Solar-Help" --dest-dir ../PViewHelp_
+_Example: 
+    mdbook build "c:\PowerViewHelp\PowerView-Solar-Help" --dest-dir ../PViewHelp_
+    mdbook build "." --dest-dir ../PViewHelp
 This will look for the code in c:\PowerviewHelp\PowerView-Solar-Help and generate the html to the folder c:\PowerViewHelp\PViewHelp
 
 [This link](https://rust-lang.github.io/mdBook/cli/build.html) shows how to build the book.

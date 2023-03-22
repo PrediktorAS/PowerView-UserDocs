@@ -1,1 +1,0 @@
-# Meter Data Filtering
