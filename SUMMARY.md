@@ -1,6 +1,6 @@
 # PowerView Help system
 
-[How to use help](How%20to%20use%20help/How%20to%20use%20help.md)
+[HOME](WELCOME.md)
 
 - [PowerView Introduction](PowerView%20Introduction/Powerview%20Introduction.md)
   - [System Highlights](PowerView%20Introduction/System%20Highlights/System%20Highlights.md)
