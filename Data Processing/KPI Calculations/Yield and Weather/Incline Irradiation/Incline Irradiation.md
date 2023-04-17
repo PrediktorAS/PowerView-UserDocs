@@ -1,6 +1,6 @@
 # Incline Irradiation
 
-Incline irradiation is calculated from incline irradiation pyranometer sensors as first source. Sensors are filtered according to rules in [Weather sensor filtering](Weather%20sensor%20filtering.md).
+Incline irradiation is calculated from incline irradiation pyranometer sensors as first source. Sensors are filtered according to rules in [Weather sensor filtering](../../../Data%20Filtering/Weather%20Sensor%20Filtering/Weather%20Sensor%20Filtering.md)
 
 If data is missing for a period, data is backfilled from external data source. 
 
