@@ -1,13 +1,13 @@
 # PowerView Help system
 
-[HOME](WELCOME.md)
+[](WELCOME.md)
 
 - [PowerView Introduction](PowerView%20Introduction/Powerview%20Introduction.md)
   - [System Highlights](PowerView%20Introduction/System%20Highlights/System%20Highlights.md)
   - [Functional and Software Architecture](PowerView%20Introduction/Functional%20and%20Software%20Architecture/Functional%20and%20Software%20Architecture.md)
   - [Infrastructure Architecture](PowerView%20Introduction/Infrastructure%20Architecture/Infrastructure%20Architecture.md)
   - [Cyber Security](PowerView%20Introduction/Cyber%20Security/Cyber%20Security.md)
-- [Data Collection & Data Flow](Data%20Collection%20&%20Data%20Flow/Data%20collection%20&%20Data%20Flow.md&)
+- [Data Collection & Data Flow](Data%20Collection%20&%20Data%20Flow/Data%20collection%20&%20Data%20Flow.md)
   - [Data Connectivity](Data%20Collection%20&%20Data%20Flow/Data%20Connectivity/Data%20Connectivity.md)
     - [Device Hook-up and Integration](Data%20Collection%20&%20Data%20Flow/Data%20Connectivity/Device%20Hook-up%20and%20Integration/Device%20Hook-up%20and%20Integration.md)
     - [Data Acquisition and Logging](Data%20Collection%20&%20Data%20Flow/Data%20Connectivity/Data%20Acquisition%20and%20Logging/Data%20Acquisition%20and%20Logging.md)
