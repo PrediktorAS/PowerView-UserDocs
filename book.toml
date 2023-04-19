@@ -4,11 +4,16 @@ authors = ["Morten Bogetvedt", "Henrik Bækhus"]
 language = "en"
 description = "Help system for Prediktor PowerView"
 multilingual = false
-src = "."
-dest-dir = "../PViewHelp"
+src = "src"
 
 [output.html]
-default-theme = "Rust"
+theme = "theme"
+no-section-label = true
+copy-fonts = false
+
+[build]
+create-missing = true
+build-dir = "book"
 
 [output.html.fold]
 enable = true    # whether or not to enable section folding
