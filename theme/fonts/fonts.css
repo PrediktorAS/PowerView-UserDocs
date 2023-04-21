@@ -104,7 +104,7 @@
 	font-family: 'Barlow';
 	font-style: normal;
 	font-weight: 400;
-	src: local("Barlow Regular"), url("Barlow-Regular.woff2") format("woff"), url("Barlow-Regular.ttf") format("truetype"); 
+	src: local("Barlow Regular"), local("Barlow-Regular"), url("Barlow-Regular.woff2") format("woff2");
 }
 
 @font-face {
@@ -118,19 +118,12 @@
 	font-family: 'Barlow';
 	font-style: normal;
 	font-weight: 600;
-	src: local("Barlow SemiBold"), url("Barlow-SemiBold.woff2") format("woff"), url("Barlow-SemiBold.ttf") format("truetype"); 
+	src: local("Barlow SemiBold"), url("Barlow-SemiBold.woff2") format("woff2"); 
 }
 
 @font-face {
 	font-family: 'Barlow';
 	font-style: normal;
 	font-weight: 700;
-	src: local("Barlow Bold"), url("Barlow-Bold.woff2") format("woff"), url("Barlow-Bold.ttf") format("truetype"); 
-}
-
-@font-face {
-	font-family: 'Barlow';
-	font-style: normal;
-	font-weight: 800;
-	src: local("Barlow Bold"), url("Barlow-ExtraBold.woff2") format("woff"), url("Barlow-ExtraBold.ttf") format("truetype"); 
+	src: local("Barlow Bold"), local("Barlow-Bold"), url("Barlow-Bold.woff2") format("woff2"); 
 }
