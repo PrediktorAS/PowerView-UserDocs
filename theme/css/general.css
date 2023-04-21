@@ -2,42 +2,6 @@
 
 @import 'variables.css';
 
-@font-face {
-  font-family: "Barlow";
-  font-style: normal;
-  font-weight: normal;
-  font-display: swap;
-  src: url("../fonts/Barlow-Regular.woff2") format("woff2"),
-    url("../fonts/Barlow-Regular.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: "Barlow";
-  font-style: italic;
-  font-weight: normal;
-  font-display: swap;
-  src: url("../fonts/Barlow-Italic.woff2") format("woff2"),
-    url("../fonts/Barlow-Italic.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: "Barlow";
-  font-style: normal;
-  font-weight: bold;
-  font-display: swap;
-  src: url("../fonts/Barlow-Bold.ttf") format("woff2"),
-    url("../fonts/Barlow-Bold.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: "Barlow";
-  font-style: italic;
-  font-weight: bold;
-  font-display: swap;
-  src: url("../fonts/Barlow-BoldItalic.woff2") format("woff2"),
-    url("../fonts/Barlow-BoldItalic.ttf") format("truetype");
-}
-
 :root {
   /* Browser default font-size is 16px, this way 1 rem = 10px */
   font-size: 62.5%;
