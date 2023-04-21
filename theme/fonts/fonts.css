@@ -111,7 +111,7 @@
 	font-family: 'Barlow';
 	font-style: normal;
 	font-weight: 500;
-	src: local("Barlow"), url("Barlow-Medium.woff2") format("woff"), url("Barlow-Medium.ttf") format("truetype"); 
+	src: local("Barlow"), local("Barlow Medium"), url("Barlow-Medium.woff2") format("woff2"); 
 }
 
 @font-face {
