@@ -2,7 +2,7 @@
 
 Following calculation applies:
 1.	String availability = weighted average (weighted by nominal power Wp) of availability for all strings.
-2.	String availability production loss = E_meas_gross / (E_meas_gross + Production Loss String)
+2.	String availability production loss = E_meas_gross / (E_meas_gross +[String Downtime Production Loss](../../Production%20Losses/String%20down%20time%20production%20losses/String%20down%20time%20production%20losses.md))
 
 ## String availability
 String availability is calculated based on specific power on each string relative to group (combiner) median of specific power. 
@@ -29,14 +29,7 @@ Exception rules are made to not get string downtime when inverter is not produci
 String availability for plant is calculated as the weighted average (weighted by nominal power WDCp) of availability for all strings. 
 
 ## String availability production loss
-- E_meas_gross = E_meas + Production Loss Grid + Production Loss Inverters + Production Loss String + Production Loss Curtailment + Production Loss Clippping + Production Loss Soiling + Production Loss Snow + Production Loss Tracker
-    - E_meas: measured actual production for plant
-    - Production Loss Grid
-    - Production Loss Inverters
-    - Production Loss Tracker
-    - Production Loss String
-    - Production Loss Soiling
-    - Production Loss Curtailment
-    - Production Loss Clipping
-    - Production Loss Snow
+- String availability production loss = E_meas_gross / (E_meas_gross + [String Downtime Production Loss](../../Production%20Losses/String%20down%20time%20production%20losses/String%20down%20time%20production%20losses.md))
+    - E_meas_gross = [Actual Production](../../Yield%20and%20Weather/Actual%20Production/Actual%20Production.md) + [Grid Downtime production Loss](../../Production%20Losses/Grid%20down%20time%20production%20losses/Grid%20down%20time%20production%20losses.md) + [Plant Downtime Production Loss](../../Production%20Losses/Plant%20down%20time%20production%20losses/Plant%20down%20time%20production%20losses.md) + [String Downtime Production Loss](../../Production%20Losses/String%20down%20time%20production%20losses/String%20down%20time%20production%20losses.md) + [Curtailment Production Loss](../../Production%20Losses/Curtailment%20production%20losses/Curtailment%20production%20losses.md) + [Clippping Production Loss](../../Production%20Losses/Clipping%20production%20losses/Clipping%20production%20losses.md) + [Soiling Production Loss](../../Production%20Losses/Soiling%20production%20losses/Soiling%20production%20losses.md) + [Snow Production Loss](../../Production%20Losses/Snow%20production%20losses/Snow%20production%20losses.md) + [Tracker Downtime Production Loss](../../Production%20Losses/Tracker%20down%20time%20production%20losses/Tracker%20down%20time%20production%20losses.md)
+    
 

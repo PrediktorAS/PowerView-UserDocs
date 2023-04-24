@@ -1,8 +1,12 @@
 # String down time production losses
 
-String availability losses are calculated based on string availability for plant as described in chapter 5.3.4, but only availability during midday hours are used for the entire day.
-- Production Loss Strings = E_meas * (1-SA_midday) / SA_midday
+String losses are calculated in two ways:
+- String losses per plant
+- String losses per string set (channel)
 
-Factors calculated as follows:
-- E_meas: measured actual production for plant (see 5.1.1)
-- SA_midday: String availability (0-1) for plant during midday 10-14 hours
+## String losses per plant
+String availability losses are calculated based on string availability for plant as described in chapter 5.3.4, but only availability during midday hours are used for the entire day.
+- Production Loss Strings = [Actual Production](../../Yield%20and%20Weather/Actual%20Production/Actual%20Production.md) * (1 - SA_midday) / SA_midday
+    - SA_midday: String availability (0-1) for plant during midday 10-14 hours
+
+## String losses per string set (channel)
