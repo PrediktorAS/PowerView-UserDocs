@@ -12,3 +12,7 @@ build-dir = "book"
 theme = "theme"
 mathjax-support = true
 copy-fonts = false
+
+[output.html.fold]
+enable = true    # whether or not to enable section folding
+level = 0         # the depth to start folding
