@@ -18,4 +18,5 @@ Definition of factors:
     - Down time is calculated as sum of periods when inverter state is in state classes “Idle time” or “Failure time” or when state code>10000 (e.g. Stop, no power production)
 -	E_meas_gross = [Actual production](../../Yield%20and%20Weather/Actual%20Production/Actual%20Production.md) + [Grid Downtime Production Losses](../../Production%20Losses/Grid%20down%20time%20production%20losses/Grid%20down%20time%20production%20losses.md) + [Plant Downtime Production Losses](../../Production%20Losses/Plant%20down%20time%20production%20losses/Plant%20down%20time%20production%20losses.md) 
 
-[Equipment States](../../../../Data%20Collection%20&%20Data%20Flow/Equipment%20States/Equipment%20States.md)
+
+For states see [Inverter States](../../../../Data%20Collection%20&%20Data%20Flow/Equipment%20States/Inverter/Inverter.md)

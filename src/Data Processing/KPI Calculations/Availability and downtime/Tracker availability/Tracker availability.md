@@ -9,21 +9,15 @@ Following calculation applies:
 Definition of factors:
 - Sum downtime trackers
     - Total down time. Down time is calculated as sum of periods when tracker state is in state classes “Idle time” or “Failure time”. Will only happen during day time.
+    
 - Sum daylight time trackers:
     - Calculated based on all states not having class “Not scheduled”
     - E.g. “No power production”
 - Sum time full day
     - Total time for period.
-- E_meas_gross = E_meas + Production Loss Grid + Production Loss Inverters + Production Loss String + Production Loss Curtailment + Production Loss Clippping + Production Loss Soiling + Production Loss Snow + Production Loss Tracker
--	E_meas: measured actual production for plant
-    - Production Loss Grid
-    - Production Loss Inverters
-    - Production Loss Tracker
-    - Production Loss String
-    - Production Loss Soiling
-    - Production Loss Curtailment
-    - Production Loss Clipping
-    - Production Loss Snow
+- E_meas_gross = [Actual Production](../../Yield%20and%20Weather/Actual%20Production/Actual%20Production.md) + [Grid Downtime production Loss](../../Production%20Losses/Grid%20down%20time%20production%20losses/Grid%20down%20time%20production%20losses.md) + [Plant Downtime Production Loss](../../Production%20Losses/Plant%20down%20time%20production%20losses/Plant%20down%20time%20production%20losses.md) + [String Downtime Production Loss](../../Production%20Losses/String%20down%20time%20production%20losses/String%20down%20time%20production%20losses.md) + [Curtailment Production Loss](../../Production%20Losses/Curtailment%20production%20losses/Curtailment%20production%20losses.md) + [Clippping Production Loss](../../Production%20Losses/Clipping%20production%20losses/Clipping%20production%20losses.md) + [Soiling Production Loss](../../Production%20Losses/Soiling%20production%20losses/Soiling%20production%20losses.md) + [Snow Production Loss](../../Production%20Losses/Snow%20production%20losses/Snow%20production%20losses.md) + [Tracker Downtime Production Loss](../../Production%20Losses/Tracker%20down%20time%20production%20losses/Tracker%20down%20time%20production%20losses.md)
 - Power availability on tracker
     - Factor from 0-1. Removing unavailable power due to string and inverter downtime
+
+For states and classes see [Equipment States](../../../../Data%20Collection%20&%20Data%20Flow/Equipment%20States/Equipment%20States.md) and [Tracker States](../../../../Data%20Collection%20&%20Data%20Flow/Equipment%20States/Tracker/Tracker.md)
 

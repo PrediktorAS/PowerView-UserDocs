@@ -3,7 +3,7 @@
 This is plant downtime in kWh.
 Production loss is calculated for an inverter based on the state for the inverter at a given time.
 
-Inverter states is classified into following classes:
+Inverter states is classified into following [Equipment States](../../../../Data%20Collection%20&%20Data%20Flow/Equipment%20States/Equipment%20States.md) classes:
 - Production time
 - Failure time
 - Idle time
@@ -14,10 +14,8 @@ Inverter states is classified into following classes:
 For each 10 min time period SCADA calculates the share of the total inverter DC capacity which is experiencing downtime (ShareNomPowerDown). As long as this share is below [80%], Alternative A should be used, while if the share of inverter capacity down is above [80%] – Alternative B should be applied (the same as applied in case of Production Loss on Grid).
 
 - ShareNomPowerDown = TotalNomPowerDown / Pnom
-
-Factors calculated as follows:
-- Pnom: total nominal DC power of plant
-- TotalNomPowerDown: total nominal DC power of all inverters experiencing down time
+    - Pnom: total nominal DC power of plant
+    - TotalNomPowerDown: total nominal DC power of all inverters experiencing down time
 
 Production loss for one inverter is calculated dividing “Production Loss Inverters” with number of inverters down.
 
@@ -43,7 +41,7 @@ Factors calculated as follows:
     -Calculate a reference “PR Gross Production Loss” or the reference period of 5 (full) days prior to the day in which the downtime occurs (including the effects of any production loss during that reference period) 
 - NomPowerInverter: 
     - Nominal DC power of inverter
-- InclineIrradiation
+- [Incline Irradiation](../../Yield%20and%20Weather/Incline%20Irradiation/Incline%20Irradiation.md)
     - Incline pyranometer value for plant
     - If no irradiation exists for 10 minute period:
         - Use irradiation for same time previous day is used. 20 days back is checked. 
