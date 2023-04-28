@@ -7,4 +7,17 @@ Typically data is collected once every night for the previous day and typical re
 
 Satellite weather data can be used as main source of weather data to calculate KPI's or used to replace missing data from plant sensors when not present due to data loss.
 
-See also [Weather sensor filtering](../../Data%20Processing/Data%20Filtering/Weather%20Sensor%20Filtering/Weather%20Sensor%20Filtering.md)
+Parameters collected is:
+- Horizontal Irradiation	
+- Incline Irradiation	
+- Diffuse Irradiation	
+- Environment Temperature	
+- Module Temperature	
+- Wind Speed	
+- Wind Direction	
+- Humidity	
+- Rain Amount	
+- Air Pressure	
+- Snow Depth
+
+See also [Weather sensor filtering](../../Data%20Processing/Data%20Filtering/Weather%20Sensor%20Filtering/Weather%20Sensor%20Filtering.md).
