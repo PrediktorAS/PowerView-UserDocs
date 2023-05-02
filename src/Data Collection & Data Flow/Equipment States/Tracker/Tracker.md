@@ -20,10 +20,11 @@ Standard state codes shown below:
 |------------|---------|---------|---------|
 |Tracker|	7000	|Manual mode	|Line restraint time|
 |Tracker|	7001	|Tracking the Sun	|Production time|
-|Tracker|	7002	|Park position	|Line restraint time|
+|Tracker|	7002	|Stow position	|Line restraint time|
 |Tracker|	7004	|Go east	|Line restraint time|
 |Tracker|	7005	|Go west	|Line restraint time|
 |Tracker|	7006	|Stopped	|Idle time|
+|Tracker|	7007	|Out of position	|Failure time|
 |Tracker|	7100	|No production	|Not Scheduled|
 |Tracker|	7101	|Preventive Maintenance	|Unscheduled|
 |Tracker|	7102	|Corrective Maintenance	|Failure time|

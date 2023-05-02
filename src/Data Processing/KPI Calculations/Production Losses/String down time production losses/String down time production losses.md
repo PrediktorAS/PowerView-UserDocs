@@ -5,8 +5,14 @@ String losses are calculated in two ways:
 - String losses per string set (channel)
 
 ## String losses per plant
-String availability losses are calculated based on string availability for plant as described in chapter 5.3.4, but only availability during midday hours are used for the entire day.
+String availability losses are calculated based on [String Availability](../../Availability%20and%20downtime/String%20availability/String%20availability.md) for plant, but only availability during midday hours are used for the entire day.
 - Production Loss Strings = [Actual Production](../../Yield%20and%20Weather/Actual%20Production/Actual%20Production.md) * (1 - SA_midday) / SA_midday
     - SA_midday: String availability (0-1) for plant during midday 10-14 hours
 
-## String losses per string set (channel)
+## String losses per string set (channel) 
+Losses cacluated per string based on [String Availability](../../Availability%20and%20downtime/String%20availability/String%20availability.md) per string during mid day.
+
+- Production Loss Strings =  NominalPower * (SpecificEnergyPlantMedian - SpecificEnergyString)
+    - NominalPower: nominal DC power for string
+    - SpecificEnergyPlantMedian: median specific energy (Wh/Wdcp) for all strings in plant
+    - SpecificEnergyString: specific energy (Wh/WDCp) for string
