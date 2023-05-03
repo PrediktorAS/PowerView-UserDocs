@@ -163,9 +163,9 @@
 //  - [REST API’s](Accessing%20Data%20–%20API’s/REST%20API’s/REST%20API’s.md)
 //  - [OPC UA](Accessing%20Data%20–%20API’s/OPC%20UA/OPC%20UA.md)
 
-- [System Administration](System%20Administration/System%20Administration.md)
-  - [User Access](System%20Administration/User%20Access/User%20Access.md)
-  - [Menu Setup](System%20Administration/Menu%20Setup/Menu%20Setup.md)
+- [System Administration](system_administration/README.md)
+  - [User Access](system_administration/user_access.md)
+  - [Menu Setup](system_administration/menu_setup.md)
 
 - [System Configuration](system_configuration/README.md)
   - [Plant Setup](system_configuration/plant_setup.md)
