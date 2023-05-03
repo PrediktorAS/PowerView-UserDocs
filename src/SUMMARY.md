@@ -167,7 +167,7 @@
   - [User Access](System%20Administration/User%20Access/User%20Access.md)
   - [Menu Setup](System%20Administration/Menu%20Setup/Menu%20Setup.md)
 
-- [System Configuration](System%20Configuration/System%20Configuration.md)
-  - [Plant Setup](System%20Configuration/Plant%20Setup/Plant%20Setup.md)
-  - [Report & Dashboards](System%20Configuration/Report%20&%20Dashboards/Report%20&%20Dashboards.md)
-  - [Alarms](System%20Configuration/Alarms/Alarms.md)
+- [System Configuration](system_configuration/README.md)
+  - [Plant Setup](system_configuration/plant_setup.md)
+  - [Report & Dashboards](system_configuration/report_and_dashboards.md)
+  - [Alarms](system_configuration/alarms.md)
