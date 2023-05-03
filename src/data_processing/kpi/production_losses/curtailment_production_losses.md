@@ -1,6 +1,6 @@
 # Curtailment production losses
 
-Curtailment losses are calculated for each 10 minute period based on registered curtailment periods. Curtailment is registered as state 6006 on [grid state](../../../../Data%20Collection%20&%20Data%20Flow/Equipment%20States/Grid/Grid.md).
+Curtailment losses are calculated for each 10 minute period based on registered curtailment periods. Curtailment is registered as state 6006 on [grid state](../../../data_collection/equipment_states/grid.md).
 
 For each period, estimated production is calculated based on measured irradiation and available nominal power. The difference between estimated and measured value is defined as the losses.
 

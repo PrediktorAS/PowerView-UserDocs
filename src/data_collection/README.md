@@ -4,4 +4,4 @@ Data is collected from a various set of data sources to build the foundation for
 Find more information in sub chapters below.
 
 
-![Data Flow](/img/SoftwareArchitecture.png)
+![Data Flow](../img/SoftwareArchitecture.png)

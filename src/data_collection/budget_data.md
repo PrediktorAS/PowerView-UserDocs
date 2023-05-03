@@ -3,7 +3,7 @@
 A multiple and custom set of budget data can be loaded into the PowerView database and used for reporting.
 Budget are input using following methods:
 - By filling in Excel file for upload in data warehouse
-- Using [Budget input](../../user_interfaces/Manual%20Data%20Registration/Budget%20Input/Budget%20Input.md) user screens.
+- Using [Budget input](../user_interfaces/manual/budget_input.md) user screens.
 
 Data is per plant and day.
 

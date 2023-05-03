@@ -1,6 +1,6 @@
 # Soiling production losses
 
-Soiling losses are calculated as [Soiling Index](../../Yield%20and%20Weather/Soiling%20Index/Soiling%20Index.md) related to measured energy production:
+Soiling losses are calculated as [Soiling Index](../yield_and_weather/soiling_index.md) related to measured energy production:
 
-Soiling losses = ([Actual Production](../../Yield%20and%20Weather/Actual%20Production/Actual%20Production.md) / (1-([Soiling Index](../../Yield%20and%20Weather/Soiling%20Index/Soiling%20Index.md)/100))) - [Actual Production](../../Yield%20and%20Weather/Actual%20Production/Actual%20Production.md)
+Soiling losses = ([Actual Production](../yield_and_weather/actual_production.md) / (1-([Soiling Index](../yield_and_weather/soiling_index.md)/100))) - [Actual Production](../yield_and_weather/actual_production.md)
 

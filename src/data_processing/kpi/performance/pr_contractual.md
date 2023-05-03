@@ -14,6 +14,6 @@ General formula included is as below.
             - [Curtailment Production Loss](../production_losses/curtailment_production_losses.md)
             - [Grid Downtime Production Loss](../production_losses/grid_down_time_production_losses.md)
             - Other excluded losses = E_meas * (1 – Manual correction factor)  / Manual correction factor
-    - Manual correction factor: factor from 0-1 edited in screen [Production Correction Factor](../../../../user_interfaces/Manual%20Data%20Registration/Production%20Correction%20Factor/Production%20Correction%20Factor.md)
-        - IAcc: accumulated [Incline Irradiation](../../../../user_interfaces/Manual%20Data%20Registration/Irradiation%20Correction/Irradiation%20Correction.md) (plant value from sensors or backfilled from external weather source)
+    - Manual correction factor: factor from 0-1 edited in screen [Production Correction Factor](../../../user_interfaces/manual/production_correction_factor.md)
+        - IAcc: accumulated [Incline Irradiation](../../../user_interfaces/manual/irradiation_correction.md) (plant value from sensors or backfilled from external weather source)
         - A: Implied warranted plant availability as per contract

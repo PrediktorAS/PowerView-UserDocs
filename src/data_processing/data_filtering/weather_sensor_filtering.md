@@ -3,7 +3,7 @@
 All weather data read with bad quality from sensor (e.g. due to comm problems) will be rejected. In addition, below filtering applies.
 
 ##	Filtering with out-of-order status (O)
-Sensors can be configured as out of order in manual input screen shown in [Weather Data Correction](../../../user_interfaces/Manual%20Data%20Registration/Weather%20Data%20Correction/Weather%20Data%20Correction.md). These values are set to bad and not used in plant data calculations.
+Sensors can be configured as out of order in manual input screen shown in [Weather Data Correction](../../user_interfaces/manual/weather_data_correction.md). These values are set to bad and not used in plant data calculations.
 
 Values filtered are labelled as “O” in sensor report
 

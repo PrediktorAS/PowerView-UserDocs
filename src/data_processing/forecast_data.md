@@ -9,6 +9,6 @@ Power forecast is scaled with registered and stored power availability.
 Reduced availability can be registered based on known outages like maintenance or curtailment.
 
 ## Weighted power forecast
-Weighted power forecast can be configured in [Weighted Forecast](../../user_interfaces/Forecasting/Setup%20and%20Administration/Setup%20and%20Administration.md).
+Weighted power forecast can be configured in [Weighted Forecast](../user_interfaces/forecasting/setup_and_administration.md).
 This solution can combine multiple forecast sources into one.
 

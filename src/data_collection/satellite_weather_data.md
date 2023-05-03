@@ -20,4 +20,4 @@ Parameters collected is:
 - Air Pressure	
 - Snow Depth
 
-See also [Weather sensor filtering](../../Data%20Processing/Data%20Filtering/Weather%20Sensor%20Filtering/Weather%20Sensor%20Filtering.md).
+See also [Weather sensor filtering](../data_processing/data_filtering/weather_sensor_filtering.md).

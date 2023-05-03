@@ -8,5 +8,5 @@ Data processing on collected data is done in several ways in PowerView.
 - Standard calculations in OPC UA information model
     - Using variables and parameters from signals and alarms to calculate standard new variables and alarms
     - Example relative power measurements, performance indications and general alarms
-- [KPI calculations](../../../Data%20Processing/KPI%20Calculations/KPI%20Calculations.md) in analytical engine
+- [KPI calculations](../../data_processing/kpi/README.md) in analytical engine
     - KPI's calculated and stored in data warehouse and information model
