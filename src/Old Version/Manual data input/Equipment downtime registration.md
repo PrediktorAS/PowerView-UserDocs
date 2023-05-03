@@ -10,4 +10,4 @@ Change state by selecting from the list
 Add optional comment
 By pressing the "Add" link, you can add a new state period. Enter the state start time together with state and optional comment. The state end time is automatically set to the start time of the next state. The end time of the previous state is automatically changed.
 
-![Equipment downtime registration](../images/equipment%20downtime%20correction.png)
+![Equipment downtime registration](../img/equipment%20downtime%20correction.png)

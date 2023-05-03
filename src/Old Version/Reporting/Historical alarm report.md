@@ -37,4 +37,4 @@ The number of alarms set in "Alarms/page" (default 25) are shown on a page at a 
 
 Data can be exported to Excel pressing the "--> Excel" button. Only data shown on the page is exported. Increase "Alarms/page" and press refresh to get more alarms in the Excel file. Save or open the file.
 
-![Alarm history](../images/alarmhistory.png) 
+![Alarm history](../img/alarmhistory.png) 

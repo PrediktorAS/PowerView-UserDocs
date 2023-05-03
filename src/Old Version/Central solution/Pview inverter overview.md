@@ -4,4 +4,4 @@ Shows an overview for inverters on the trafo/data collection device.
 
 Example below with explanations.
 
-![Inverter overview](../images/inverteroverview.png)
+![Inverter overview](../img/inverteroverview.png)

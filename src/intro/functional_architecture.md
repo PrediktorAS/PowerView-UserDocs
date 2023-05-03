@@ -2,7 +2,7 @@
 
 A high-level functional architecture of PowerView™ is shown in figure below. Typical functions are split between software executed on a local site server/PC and a centralized portfolio cloud server. More detailed on functions are explained below figure. 
 
-![FunctionalArchitectureDrawing](../images/FunctionalArchitectureDrawing.png)
+![FunctionalArchitectureDrawing](../img/FunctionalArchitectureDrawing.png)
 
 ## Plant equipment & devices
 Plant equipment & devices are all devices on solar plant as well as devices on utility substation and control centre. These devices need to be connected to a local network in order to extract data from them in real time. They also need to provide a standard communication protocol for data exchange, e.g. Modbus TCP or OPC UA.

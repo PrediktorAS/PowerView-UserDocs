@@ -6,8 +6,8 @@ Clicking on one of the bars open details for the strings on a specific inverter.
 
 Example below with explanations. The alarm calculation is based on string orientation (east/west/other).
 
-![String overview](../images/stringmonitoroverview.png)
+![String overview](../img/stringmonitoroverview.png)
 
 Details screen:
 
-![String details overview](../images/stringmonitrodetailsinverter.png)
+![String details overview](../img/stringmonitrodetailsinverter.png)

@@ -6,6 +6,6 @@ Update rates down to 5 minutes can be achieved.
 Typical setup for day ahead forecasts is every day, and for intra day forecast every 15min/hour.
 Typical resolution is 15 min.
 
-Availability forecast is added manually by user in PowerView web portal in [Planned Power Reduction](../../User%20Interfaces/Forecasting/Planned%20Power%20Reduction/Planned%20Power%20Reduction.md) screen. 
+Availability forecast is added manually by user in PowerView web portal in [Planned Power Reduction](../user_interfaces/forecasting/planned_power_reduction.md) screen. 
 
-See also [Forecasting](../../User%20Interfaces/Forecasting/Forecasting.md)
+See also [Forecasting](../user_interfaces/forecasting/README.md)

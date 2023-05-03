@@ -43,4 +43,4 @@ Below APIS products are named and links to general APIS user guides.
 - Interface to 3rd Party data loggers using Rest API integrations.
 
 
-![Software and data flow architecture](../images/SoftwareArchitecture.png)
+![Software and data flow architecture](../img/SoftwareArchitecture.png)

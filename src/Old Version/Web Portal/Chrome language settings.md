@@ -5,36 +5,36 @@ Google Chrome installed in English Windows will use English US values by default
 
 To change this, the English US language must be replaced with English (United Kingdom).
 
-Open settings in Chrome pressing ![burger](../images/chrome%201.png) or ![Arrow](../images/chrome%202.png) and selecting “settings” from menu in upper right corner of browser:
+Open settings in Chrome pressing ![burger](../img/chrome%201.png) or ![Arrow](../img/chrome%202.png) and selecting “settings” from menu in upper right corner of browser:
 
-![Settings](../images/chrome%203.png)
+![Settings](../img/chrome%203.png)
 
 Scroll to bottom and select "Advanced":
 
-![Advanced](../images/chrome%204.png)
+![Advanced](../img/chrome%204.png)
 
-Continue scrolling down to “Languages”, and open the “Language” tab pressing the ![down arrow](../images/chrome%205.png) :
+Continue scrolling down to “Languages”, and open the “Language” tab pressing the ![down arrow](../img/chrome%205.png) :
 
-![Languages](../images/chrome%206.png)
+![Languages](../img/chrome%206.png)
 
 Press “Add languages” and add “English (United Kingdom):
 
-![Add languages](../images/chrome%207.png)
+![Add languages](../img/chrome%207.png)
 
-![Add languages](../images/chrome%208.png)
+![Add languages](../img/chrome%208.png)
 
-Open “English (United Kingdom)” language on right side pressing the ![Burger](../images/chrome%209.png) button, and set "Display Google Chrome in this language":
+Open “English (United Kingdom)” language on right side pressing the ![Burger](../img/chrome%209.png) button, and set "Display Google Chrome in this language":
 
-![Display language](../images/chrome%2010.png)
+![Display language](../img/chrome%2010.png)
 
-![Display language](../images/chrome%2011.png)
+![Display language](../img/chrome%2011.png)
 
 Delete the “English (United states)” language by pressing button and “Remove”
 
-![Remove language](../images/chrome%2012.png)
+![Remove language](../img/chrome%2012.png)
 
 Result should look like this:
 
-![Result](../images/chrome%2013.png)
+![Result](../img/chrome%2013.png)
 
 Restart Chrome and check that you now have correct units.

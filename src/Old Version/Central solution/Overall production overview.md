@@ -16,4 +16,4 @@ On the right side of page there is number of different trends with 24 hours time
 
 Example from Norway Oslo below with explanations.
 
-![Overall production overview](../images/overallproductionioverview.png)
+![Overall production overview](../img/overallproductionioverview.png)

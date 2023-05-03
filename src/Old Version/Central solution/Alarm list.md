@@ -23,4 +23,4 @@ On the below of the page there is acknowledge box for acknowledge the alarms by 
 
 Example below with explanations.
 
-![Alarm list](../images/alarmlist.png)
+![Alarm list](../img/alarmlist.png)

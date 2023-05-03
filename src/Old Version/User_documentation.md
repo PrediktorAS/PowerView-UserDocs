@@ -437,7 +437,7 @@ Thescreencontainslinksandnavigationelementstonavigatetootherrelatedpages.Buttons
 Followingmaindatapresentationelementsarefoundinthescreens:
 
 - Dynamicnumericandtextvalues
-  - Dynamicandstaticimages
+  - Dynamicandstaticimg
 - Bar graphs
   - Alarm lists
 - Dynamictrendgraphs

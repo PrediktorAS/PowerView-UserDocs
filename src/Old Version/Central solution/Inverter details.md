@@ -20,4 +20,4 @@ On the below page there is alrm list which show individual active alarm on the i
 
 Example from Huawei string inverter below with explanations.
 
-![Inverter details](../images/inverterdetails.png)
+![Inverter details](../img/inverterdetails.png)

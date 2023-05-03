@@ -8,4 +8,4 @@ On the Recative AC Power for all inverters shows Relative power for all individu
 
 Example below with explanations.
 
-![Inverter power overview](../images/poweroverview.png)
+![Inverter power overview](../img/poweroverview.png)

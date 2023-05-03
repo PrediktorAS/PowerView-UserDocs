@@ -9,7 +9,7 @@ In PowerView currently three equipment types have state logging:
 
 The state of each of the equipment within these equipment types are continuously logged in a database. When the state is changed, the time of the change is logged together with the new state type. 
 State is automatically logged based on signals from the plant equipment and instrumentation. E.g. for the inverters, the operation mode and error signals are used to decide what state is set.
-State can be manually changed in the database using [Down Time Correction Screen](../../User%20Interfaces/Manual%20Data%20Registration/Down%20Time%20Correction/Down%20Time%20Correction.md)
+State can be manually changed in the database using [Down Time Correction Screen](../../user_interfaces/manual/down_time_correction.md)
 The state codes are classified into state classes:
 - Production time
 - Failure time (defined as downtime)

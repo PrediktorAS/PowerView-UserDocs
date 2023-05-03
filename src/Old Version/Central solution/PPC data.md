@@ -22,4 +22,4 @@ On the below there is an alarmlist for PPC active alarms.
 
 Example below with explanations.
 
-![PPC data](../images/PPC%20data.png)
+![PPC data](../img/PPC%20data.png)
