@@ -2,7 +2,7 @@
 
 PowerView™ solution with software and hardware/infrastructure is installed and maintained to secure data and to prevent system for unauthorized access and cyber-attacks.
 Prediktor cooperate with customer IT personnel and supplier of other services to make sure best possible security. Network, routers, firewalls, etc. are in most cases delivered and configured by 3. Party IT suppliers. In these cases, Prediktor assist with requirements and recommendations to configure a secure system.
-Information security is handles as a separate task within the company, and Prediktor is working right now on getting ISO 27001 certification. 
+Information security is handles as a separate task within the company, and Prediktor is ISO 27001 certified. 
 Below, certain subtopics within cyber security in PowerView™ is described in more details.
 
 ![CyberSecurity1](../../Images/CyberSecurity1.png)
