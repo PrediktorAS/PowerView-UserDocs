@@ -21,7 +21,7 @@ Below APIS products are named and links to general APIS user guides.
 - Software for monitoring and control locally on the plant
 - Software installed on local plant server
 - PowerView web portal with monitoring and control functions
-- Manuala data correction functions
+- Manual data correction functions
 - Basic reporting
 
 ## PowerView Portfolio

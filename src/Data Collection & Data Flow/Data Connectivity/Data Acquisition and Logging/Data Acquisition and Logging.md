@@ -9,8 +9,8 @@ Data can be collected in different ways:
 - Collect data using [PowerView plant connector](PowerView%20Plant%20Connector/PowerView%20Plant%20Connector.md) through local SCADA or data hub on site
     - PowerView plant connector PC/Server is installed on site with PowerView data collection software
     - PowerView software reads data from local SCADA/data hub and store and forward to PowerView portfolio solution
-- Collect data using existing data stores in cloud from [3 part supplier API](Third%20Party%20API's/Third%20Party%20API's.md)
-    - Data is already stored in a cloud database (e.g. from Isotrol) and have access to data from 3. Part using an API access
+- Collect data using existing data stores in cloud from [3rd-party supplier API](Third%20Party%20API's/Third%20Party%20API's.md)
+    - Data is already stored in a cloud database (e.g. from Isotrol) and have access to data from 3rd-party using an API access
     - PowerView gets access to the data (authentication credentials) and documentation on API format
     - PowerView implements data read from the API and store data in PowerView portfolio solution
 - Collect data from FTP file push from inverter data loggers on plant (no cloud data store)

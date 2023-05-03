@@ -4,4 +4,4 @@ If data is already collected in a database with an API to access the data, Power
 Real time data and historical data is then read from the APIS and stored in PowerView portfolio solution databases.
 Data processing and analyicts in PowerView is put on top of this data to augment the data and bring knowledge and action from the collected data.
 
-Example of such 3. party solutions can be data collection storage from inverter suppliers, other 3. party data collection suppliers or the customers own solutions.
+Example of such 3rd-party solutions can be data collection storage from inverter suppliers, other 3. party data collection suppliers or the customers own solutions.

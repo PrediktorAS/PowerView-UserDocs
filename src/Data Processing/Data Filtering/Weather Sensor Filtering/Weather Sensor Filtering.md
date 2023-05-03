@@ -42,7 +42,7 @@ Remove points outside interval Z, labelled “L” in sensor report.
     - Z={0 ; 500}
 
 ##	Incline irradiaiton tracker filtering (T)
-Incline irradiation values from pyranometer are removed based on status of connected tracker. If state is Idle or Failure (donw time) on tracker pyranometer values is marked with bad quality and not included in plant average value. 
+Incline irradiation values from pyranometer are removed based on status of connected tracker. If state is Idle or Failure (down time) on tracker pyranometer values is marked with bad quality and not included in plant average value. 
 
 Connected tracker is configured in screen as shown below. Tracker filtering can be disabled using checkbox in screen. This can be done if status signal of tracker is not reliable.
 
