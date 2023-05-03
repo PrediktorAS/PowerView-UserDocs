@@ -15,4 +15,4 @@ The portfolio overview screen shows main status data for each plant:
 * String: Number of strings that are under performing.
 * Alarm: Last active high severity alarm not acknowledged.
 
-![Portfolio overview](../../Images/portfoliooverview.png)
+![Portfolio overview](../../images/portfoliooverview.png)

@@ -20,4 +20,4 @@ Following data is shown:
     * Relative energy values
     * Color coding
 
-![String map](../../../Images/stringmap1.png)
+![String map](../../../images/stringmap1.png)

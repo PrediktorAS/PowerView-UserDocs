@@ -5,7 +5,7 @@ Prediktor cooperate with customer IT personnel and supplier of other services to
 Information security is handles as a separate task within the company, and Prediktor is ISO 27001 certified. 
 Below, certain subtopics within cyber security in PowerView™ is described in more details.
 
-![CyberSecurity1](../../Images/CyberSecurity1.png)
+![CyberSecurity1](../images/CyberSecurity1.png)
 
 ## PowerView™ applications and data
 To protect PowerView™ application from unauthorized access, some general rules are applied on the application level:

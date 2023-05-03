@@ -12,8 +12,8 @@ Example from Norway Oslo below with explanations. SHowing soltec trackers.
 
 Level 1, station:
 
-![Tracker overview](../Images/trackerdata%20per%20station.png) 
+![Tracker overview](../images/trackerdata%20per%20station.png) 
 
 Level 2, tracker:
 
-![Tracker details](../Images/trackerdetails.png)
+![Tracker details](../images/trackerdetails.png)

@@ -6,4 +6,4 @@ The edit plant status screen shows and can edit the latest plant comment:
 * Site name
 * Plant status comment
 
-![Edit plant status](../../Images/editplantstatus.png)
+![Edit plant status](../../images/editplantstatus.png)

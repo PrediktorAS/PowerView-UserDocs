@@ -3,9 +3,9 @@
 Equipment in a solar PV plant is collected and aggregated to calculate down time, availability and production losses.
 
 In PowerView currently three equipment types have state logging:
-- [Grid connections](Grid/Grid.md)
-- [Inverters](Inverter/Inverter.md)
-- [Trackers](Tracker/Tracker.md)
+- [Grid connections](grid.md)
+- [Inverters](inverter.md)
+- [Trackers](tracker.md)
 
 The state of each of the equipment within these equipment types are continuously logged in a database. When the state is changed, the time of the change is logged together with the new state type. 
 State is automatically logged based on signals from the plant equipment and instrumentation. E.g. for the inverters, the operation mode and error signals are used to decide what state is set.

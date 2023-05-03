@@ -5,7 +5,7 @@ Holding the mouse over an element having navigation behavior, will show a hand a
 elow some of the most common navigation methods:
 
 - Clicking on top row with active alarm opens alarm pop-up window
-- Clicking on ![PE](../../../../Images/OpenPEArrow.png) symbol opens single or multiple graphs (workspace) in APIS Process Explorer    
+- Clicking on ![PE](../../../../images/OpenPEArrow.png) symbol opens single or multiple graphs (workspace) in APIS Process Explorer    
 - Clicking on inverter number opens inverter page. E.g. clicking on the inverter status symbol in the plant overview. 
 
 The top bar of the monitoring screens, shows last active alarm on the system. Clicking on the header, opens the alarm list in a pop-up window.

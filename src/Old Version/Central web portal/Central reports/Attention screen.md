@@ -16,4 +16,4 @@ __Comments__
 * Site code
 * Comment: Last plant comment
 
-![Attention screen](../../Images/attentionsscreen.png)
+![Attention screen](../../images/attentionsscreen.png)

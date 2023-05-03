@@ -12,4 +12,4 @@ Weather data page have Historical chart or trends of better graphical representa
 
 Example from Norway Oslo below with explanations.
 
-![Weather data](../Images/weatherdata.png)
+![Weather data](../images/weatherdata.png)

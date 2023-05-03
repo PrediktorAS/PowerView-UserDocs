@@ -21,4 +21,4 @@ Clicking on inverters statuses open inverter detail page.
 
 Example with explanations below:
 
-![Plant overview](../Images/plantoverview.png)
+![Plant overview](../images/plantoverview.png)
