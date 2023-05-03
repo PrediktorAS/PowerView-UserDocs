@@ -8,10 +8,10 @@ PowerView functions and user screens are implemented to support the different wo
 - [Monitoring & Control](monitoring_and_control/monitoring_and_control.md)
 - [Reports & Dashboards](reports_and_dashboards/reports_and_dashboards.md)
 - [Ticketing and work orders](Ticketing/Ticketing.md)
-- [Forecasting](forecasting/README.md)
-- [Manual data registration](manual/README.md)
-- [System Administration](../system_administration/README.md)
-- [System Configuration](../system_configuration/README.md)
+- [Forecasting](forecasting/)
+- [Manual data registration](manual/)
+- [System Administration](../system_administration/)
+- [System Configuration](../system_configuration/)
 
 
 

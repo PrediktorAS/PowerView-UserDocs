@@ -8,4 +8,4 @@ Typical resolution is 15 min.
 
 Availability forecast is added manually by user in PowerView web portal in [Planned Power Reduction](../user_interfaces/forecasting/planned_power_reduction.md) screen. 
 
-See also [Forecasting](../user_interfaces/forecasting/README.md)
+See also [Forecasting](../user_interfaces/forecasting/)

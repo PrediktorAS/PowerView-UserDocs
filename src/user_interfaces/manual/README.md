@@ -1,6 +1,6 @@
 # Manual Data Registration
 
-Most data in PowerView is collected automatically as descibed in [Data Collection & Data Flow](../../data_collection/README.md).
+Most data in PowerView is collected automatically as descibed in [Data Collection & Data Flow](../../data_collection/).
 Some of the data is however entered manually and some of the automatically collected data can be corrected manually.
 
 Following screens defines the options:

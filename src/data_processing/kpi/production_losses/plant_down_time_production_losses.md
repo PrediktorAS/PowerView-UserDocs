@@ -3,7 +3,7 @@
 This is plant downtime in kWh.
 Production loss is calculated for an inverter based on the state for the inverter at a given time.
 
-Inverter states is classified into following [Equipment States](../../../data_collection/equipment_states/README.md) classes:
+Inverter states is classified into following [Equipment States](../../../data_collection/equipment_states/) classes:
 - Production time
 - Failure time
 - Idle time
