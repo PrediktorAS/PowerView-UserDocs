@@ -22,4 +22,4 @@ For PR Gross calculation, a special formula is used: “Grid availability daylig
 
 When grid is down, it might be that there is no irradiation measurement present. This will result in grid down time is already counted for in PR by having a reduced accumulated irradiation value for day and thus a higher PR. For the PR Gross, down time and daylight time is therefore only counted when there exist incline irradiation data and when this is above 5 W/m2 (this is taken from 10 minute average values in data warehouse).
 
-For states and classes see [Equipment States](../../../data_collection/equipment_states/README.md) and [Grid States](../../../data_collection/equipment_states/grid.md)
+For states and classes see [Equipment States](../../../data_collection/equipment_states/) and [Grid States](../../../data_collection/equipment_states/grid.md)

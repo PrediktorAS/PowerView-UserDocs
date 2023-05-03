@@ -20,4 +20,4 @@ Definition of factors:
 - Power availability on tracker
     - Factor from 0-1. Removing unavailable power due to string and inverter downtime
 
-For states and classes see [Equipment States](../../../data_collection/equipment_states/README.md) and [Tracker States](../../../data_collection/equipment_states/tracker.md)
+For states and classes see [Equipment States](../../../data_collection/equipment_states/) and [Tracker States](../../../data_collection/equipment_states/tracker.md)

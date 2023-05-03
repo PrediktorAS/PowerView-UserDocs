@@ -1,6 +1,6 @@
 # Grid down time production loss
 
-Grid state is classified into following [Equipment States](../../../data_collection/equipment_states/README.md) classes:
+Grid state is classified into following [Equipment States](../../../data_collection/equipment_states/) classes:
 - Production time
 - Failure time
 - Idle time

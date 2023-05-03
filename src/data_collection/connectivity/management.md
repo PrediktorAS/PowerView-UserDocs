@@ -11,6 +11,6 @@ The data is then structured using an information model implemented using the OPC
 - Implemented with OPC UA for standard an open access from client tools
 - Parameters in model describes plants and equipment, like location, nominal values etc. 
 - Variabels is raw signals and [processed signals](processing.md)
-- Data from information model can be accessed as real time data or historical data in PowerView [user screens](../../user_interfaces/README.md) or through [standard API's](../../data_access/README.md)
+- Data from information model can be accessed as real time data or historical data in PowerView [user screens](../../user_interfaces/) or through [standard API's](../../data_access/)
 
 ![Solar PV information model ](../../img/SolarPVInformationModel.png)

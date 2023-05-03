@@ -4,5 +4,5 @@ PowerView web portal includes functinality for real time monitoring and control 
 
 User screens can be standard part of the PowerView product or customized per plant and customer.
 
-- [Monitoring](monitoring/README.md)
+- [Monitoring](monitoring/)
 - [Control](control.md)

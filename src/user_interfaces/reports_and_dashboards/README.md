@@ -4,6 +4,6 @@ PowerView includes tools for making custom paginated reports and dashboards and 
 
 - [Paginated Reports](paginated_reports.md)
 - [Dashboards](dashboards.md)
-- [Standard Reports & Dashboards](standard/README.md)
+- [Standard Reports & Dashboards](standard/)
 
 The reports can be configured for automatic generation and submission by email in standard formats like Excel, csv, pdf, etc.
