@@ -8,7 +8,7 @@ The screen contains links and navigation elements to navigate to other related p
 Following main data presentation elements are found in the screens:
 
 - Dynamic numeric and text values
-- Dynamic and static images
+- Dynamic and static img
 - Bar graphs
 - [Alarm lists](../Alarm%20Lists/Alarm%20Lists.md)
 - [Trend curves](../Trend%20Curves/Trend%20Curves.md)
@@ -25,11 +25,11 @@ Gauges and dynamic bar charts are updated continously from real time measurement
 
 Gauge example:
 
-![Gauge](../../../../images/Gauge.png)
+![Gauge](../../../../img/Gauge.png)
 
 Bar chart example:
 
-![Bar Chart](../../../../images/DyniamicChart.png)
+![Bar Chart](../../../../img/DyniamicChart.png)
  
 Click on chart legend on the bar chart to show/hide chart.
 
@@ -45,7 +45,7 @@ If your operating system is configured with English US language in web browser, 
 See web browser setup for how to change the language settings.
 
 ## Status colors
-Status images are shown with predefined colors as follows:
+Status img are shown with predefined colors as follows:
 
 Inverter:
 - Operating: green

@@ -12,4 +12,4 @@ Substation page have Historical chart or trends of better graphical representaio
 
 Example from Norway Oslo below with explanations.
 
-![Substation](../images/substation.png)
+![Substation](../img/substation.png)

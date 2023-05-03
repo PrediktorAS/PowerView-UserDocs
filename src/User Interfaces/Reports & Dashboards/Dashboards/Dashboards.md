@@ -6,4 +6,4 @@ Dashboards are integarted in the PowerView web portal menu.
 
 Example of plant portfolio dashboards below.
 
-![Portfolio](../../../images/BoldBI_Portfolio.png)
+![Portfolio](../../../img/BoldBI_Portfolio.png)

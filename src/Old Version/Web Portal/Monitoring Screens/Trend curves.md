@@ -14,7 +14,7 @@ The x-axis shows the time. The time span can be changed, right clicking the x-ax
 
 User can load more historical data by right clicking x-axis and press "Fetch More Data". Pressing the single arrows on x-axis, moving time span within the already loaded span and data. One can also move in time, dragging the scroll slider between the arrows.
 
-![Trend curves](../../images/TrendCurveExample.png) 
+![Trend curves](../../img/TrendCurveExample.png) 
 
 Right click x-axis options:
 

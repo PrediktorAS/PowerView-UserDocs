@@ -4,11 +4,11 @@ Gauges and dynamic bar charts are updated continously from real time measurement
 
 Gauge example:
 
-![gauge](../../images/gauge.png)
+![gauge](../../img/gauge.png)
 
 Bar chart example:
 
-![bar chart](../../images/barchart.png)
+![bar chart](../../img/barchart.png)
 
 Click on chart legend on the bar chart to show/hide chart.
 

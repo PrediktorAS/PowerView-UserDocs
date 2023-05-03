@@ -6,6 +6,6 @@ New report is created for each day.
 
 Comment and weather data are presented in daily KPI report in central portal.
 
-![Daily plant report](../images/dayreport1.png)
+![Daily plant report](../img/dayreport1.png)
 
-![Daily plant report](../images/dayreport2.png)
+![Daily plant report](../img/dayreport2.png)

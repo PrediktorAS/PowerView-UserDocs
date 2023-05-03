@@ -13,4 +13,4 @@ The data is then structured using an information model implemented using the OPC
 - Variabels is raw signals and [processed signals](processing.md)
 - Data from information model can be accessed as real time data or historical data in PowerView [user screens](../../../User%20Interfaces/User%20Interfaces.md) or through [standard API's](../../../Accessing%20Data%20%E2%80%93%20API%E2%80%99s/Accessing%20Data%20%E2%80%93%20API%E2%80%99s.md)
 
-![Solar PV information model ](../../images/SolarPVInformationModel.png)
+![Solar PV information model ](../../img/SolarPVInformationModel.png)

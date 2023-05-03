@@ -4,6 +4,6 @@ Some charts, and also single values, are presenting historical and aggregated da
 
 In the upper right corner of the chart, buttons are shown to change the presentation of the data:
 
-* ![Excel](../../images/Excel.png) exporting the data in tabular format to Excel
-* ![Table](../../images/Tabular%20format.png) presenting data in tabular format on screen
-* ![Graph](../../images/Line%20graph.png) present data as line graph
+* ![Excel](../../img/Excel.png) exporting the data in tabular format to Excel
+* ![Table](../../img/Tabular%20format.png) presenting data in tabular format on screen
+* ![Graph](../../img/Line%20graph.png) present data as line graph

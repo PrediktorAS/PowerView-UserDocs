@@ -15,6 +15,6 @@ This screen shows status for all plants.
         * Grey with orange border: not connected
         * Hover plant image to show details for plant. Will disappear when moving away.
         * Click plant image to show and keep status for plant. Click again to remove
-    * Zoom in/out using ![Zoom in](../../images/in.png) and ![Zoom out](../../images/out.png)
-    * Restore zoom using ![Restore](../../images/restorezoom.png)
+    * Zoom in/out using ![Zoom in](../../img/in.png) and ![Zoom out](../../img/out.png)
+    * Restore zoom using ![Restore](../../img/restorezoom.png)
                 

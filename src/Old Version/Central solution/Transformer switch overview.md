@@ -12,4 +12,4 @@ The value on breaker and Busbar show the value of Real time active power.
 
 Example from Norway Oslo below with explanations.
 
-![Transformer switch overview](../images/transformer%20switch%20overview.png)
+![Transformer switch overview](../img/transformer%20switch%20overview.png)

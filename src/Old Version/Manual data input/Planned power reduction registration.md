@@ -6,9 +6,9 @@ Procedure to operate screen is:
 
 * Select time period to edit data
 * Press "Get data" button to refresh data table
-* Press the edit button ![Edit button](../images/edit.png) to edit a date
+* Press the edit button ![Edit button](../img/edit.png) to edit a date
 * Enter reduced power in kW for each hour
-* Press the ![Apply button](../images/store.png) button to store data or the ![Cancel button](../images/cancel.png) button to cancel operation
+* Press the ![Apply button](../img/store.png) button to store data or the ![Cancel button](../img/cancel.png) button to cancel operation
 * Press the "Update from planned outages" to update all data for period based on registration of planned outages
     * NB: all data is overwritten with the planned outages data, removing the previous entered values
 

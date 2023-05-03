@@ -2,4 +2,4 @@
 
 Shows grid power and incline irradiation for all plants:
 
-![Enterprise power overview](../../images/poweroverviewchart.png)
+![Enterprise power overview](../../img/poweroverviewchart.png)

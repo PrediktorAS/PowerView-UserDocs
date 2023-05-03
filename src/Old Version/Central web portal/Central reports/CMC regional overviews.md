@@ -23,11 +23,11 @@ Following information elements:
             * Red: number of alarm/error
             * Grey: number of not connected
         * Clicking on status opens Plant Overview page
-        * ![Inverter status](../../images/invstatus_31x31.png) Inverter status. Clicking on symbol opens inverter details page.       
-        * ![Tracker status](../../images/tracker%20status.png) Tracker status. Clicking on symbol opens tracker overview page.                      
-        * ![Grid connection point status](../../images/gridstatus.png) Grid conenction point status. Clicking on symbol opens grid transfoermer switch overview.
-        * ![String monitoring status](../../images/stringmonstatus.png) String monitoring status. Clicking on symbol opens string monitoring overview page.         
-        * ![Communication status](../../images/commstats.png) Communication status with plant
+        * ![Inverter status](../../img/invstatus_31x31.png) Inverter status. Clicking on symbol opens inverter details page.       
+        * ![Tracker status](../../img/tracker%20status.png) Tracker status. Clicking on symbol opens tracker overview page.                      
+        * ![Grid connection point status](../../img/gridstatus.png) Grid conenction point status. Clicking on symbol opens grid transfoermer switch overview.
+        * ![String monitoring status](../../img/stringmonstatus.png) String monitoring status. Clicking on symbol opens string monitoring overview page.         
+        * ![Communication status](../../img/commstats.png) Communication status with plant
     * Status tower: Shows summarized status for inverters, trackers and grid
     * PPC setpoints: shows main PPC setpoint values and status
     * Inverter grid: Shows status for all inverters. Clicking on inverter opens inverter details page.
