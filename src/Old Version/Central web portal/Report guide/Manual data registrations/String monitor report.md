@@ -28,6 +28,6 @@ Following data is shown:
     * Number of continous days below warning 1 level
 * Heat map showing strings in map with color coding
 
-![String monitor distribution](../../../Images/stringmonchart.png)
+![String monitor distribution](../../../images/stringmonchart.png)
 
-![Heat map](../../../Images/Heat%20map.png)
+![Heat map](../../../images/Heat%20map.png)

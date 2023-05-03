@@ -9,9 +9,9 @@ PowerView™ application software and application functions are typically instal
     - Centralized server installed in public or private (customer) cloud. (Can also be on customer on-premise server)
     - Contain data and functionality for all sites, with remote SCADA, reporting and analyses on site and portfolio level.
 
-![InfrastructureDrawing1](../../Images/InfrastructureDrawing1.png)
+![InfrastructureDrawing1](../images/InfrastructureDrawing1.png)
 
-![InfrastructureDrawing2](../../Images/InfrastructureDrawing2.png)
+![InfrastructureDrawing2](../images/InfrastructureDrawing2.png)
 
 The functional blocks on each server can be added as needed.
 

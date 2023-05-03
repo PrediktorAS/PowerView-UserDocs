@@ -10,4 +10,4 @@ Select items from the table of contents menu to the left, or search for help top
 
 Help desk at Prediktor is available. If your issue is urgent and you have a Service Level Agreement (SLA), please make sure that you call us at the number you have been given and/or send us an email at support@prediktor.com. 
 
-![Prediktor](../Images/PrediktorLogo.png)
+![Prediktor](../images/PrediktorLogo.png)

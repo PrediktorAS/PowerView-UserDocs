@@ -19,4 +19,4 @@
 - Signals exchange (write data from PowerView™) is done using real time interface as described 
 - Buffer data for store and foreward to portfolio solution
 
-![PlantConnectorHookUp](![](../../../../Images/PlantConnectorHookUp.png)
+![PlantConnectorHookUp](../../../images/PlantConnectorHookUp.png)

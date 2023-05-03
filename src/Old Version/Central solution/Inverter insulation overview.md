@@ -4,4 +4,4 @@ Shows inverter insulation values for all inverters, if no floating ground on inv
 
 Example below with explanations.
 
-![Inverter insulation overview](../Images/insulationoverview.png)
+![Inverter insulation overview](../images/insulationoverview.png)

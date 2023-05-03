@@ -7,14 +7,14 @@ Procedure to operate screen is:
 * Edit data
     * Select time period to see old outage registrations
     * Press "Get data" button to refresh data table
-    * Press the edit button ![Edit button](../Images/edit.png) to edit an existing outage registration
+    * Press the edit button ![Edit button](../images/edit.png) to edit an existing outage registration
     * Enter start time, end time, power reduction and comment
-    * Press the ![Apply button](../Images/store.png) button to store data or the ![Cancel button](../Images/cancel.png) button to cancel operation
+    * Press the ![Apply button](../images/store.png) button to store data or the ![Cancel button](../images/cancel.png) button to cancel operation
 * Add new data
-    * To add new outage registration, press ![Add button](../Images/add.png) button
-    * Enter data and press the ![Apply button](../Images/store.png) button to store data or the ![Cancel button](../Images/cancel.png) button to cancel operation
+    * To add new outage registration, press ![Add button](../images/add.png) button
+    * Enter data and press the ![Apply button](../images/store.png) button to store data or the ![Cancel button](../images/cancel.png) button to cancel operation
 * Delete data
-    * Press ![Delete button](../Images/delete.png) button for the row to be deleted
+    * Press ![Delete button](../images/delete.png) button for the row to be deleted
     * Confirm or Cancel deletion
 
 If you register an outage outside the time interval of your time filter, it will not show in table. Then change period filter to see the new outage.

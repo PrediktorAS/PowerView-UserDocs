@@ -8,7 +8,7 @@ The time zones in a web page is specified with a default value. The time zone is
 
 The time zone used is presented in top of web page (in header). In monitoring pages and plant reports, the time zone is shown to the left in the header like shown below:
 
-![Time zone](../Images/timezone.png)
+![Time zone](../images/timezone.png)
 
 Clicking on the clock symbol, a list is presented with time zone choices. User can select a new time zone from the list.
 

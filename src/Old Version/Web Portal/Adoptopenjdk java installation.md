@@ -8,7 +8,7 @@ To download and install AdoptOpenJDK the following steps can be followed.
 
 2. Choose version 8 and Hotspot.
 
-![Latest release](../Images/adoptopenjdk_websiet_download.png)
+![Latest release](../images/adoptopenjdk_websiet_download.png)
 
 3. 64 bit JRE:
 
@@ -18,7 +18,7 @@ To download and install AdoptOpenJDK the following steps can be followed.
 
 4. When installing AdoptOpenJDK 64 bit, make sure to add all features as shown below:
 
-![Eclipse install](../Images/adoptopenjdk_64bit_features.png)
+![Eclipse install](../images/adoptopenjdk_64bit_features.png)
 
 5. Install.
 
@@ -26,7 +26,7 @@ To download and install AdoptOpenJDK the following steps can be followed.
 
 The current version of the AdoptOpenJDK install kit does not set the Content Type for jnlp files in the Registry. For PE to open correctly, the Registry must be updated with the following registry key:
 
-![Registry](../Images/adoptopenjdk_registry_key.png) 
+![Registry](../images/adoptopenjdk_registry_key.png) 
 
 This can be done manually or by importing a reg-file.
 
@@ -40,4 +40,4 @@ You should now be able to start PE any time by double-clicking the file.
 
 7. To open jnlp files from e.g. process explorer, open the files with javaws in the bin folder.
 
-![javaws](../Images/javaws.png)
+![javaws](../images/javaws.png)
