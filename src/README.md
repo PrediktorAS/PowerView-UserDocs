@@ -1,13 +1,12 @@
-# How to use help
+# PowerView Help System
 
-This is an online help system for the PowerView control, monitoring and reporting system for the PV plants, developed by Prediktor AS.
+Prediktor PowerView™ is an Asset Management Platform enabling data-driven decisions, driving down costs, and optimizing performance for complete asset portfolios. Our industry-standard protocols and open information models enable plug-and-play interoperability solutions that are repeatable across assets and portfolios.
 
-It is a combined help for the local plant version of the systems as well as the central control room and enterprise reporting solution. It contains general help topics for general concepts of the system ,but also specific help for each plant and the screens and data contained in each plant solution.
+PowerView™ is a complete solution for data collection, storage, visualization, analysis, and reporting. It is a scalable, flexible, and secure platform that can be deployed on-premise or in the cloud. PowerView™ is a modular solution that can be tailored to meet the needs of any asset-intensive industry.
 
-The plant portal help system will not contain the specific help topics for other plant solutions.
+The menu on the left contains the help system for the PowerView™ Plant Portal as well as the underlying PowerView™ Plant solution. You can also search by clicking the magnifying glass icon obove, which is reachable throughout the solution.
 
-Select items from the table of contents menu to the left, or search for help topics in the built-in search system.
-
-Help desk at Prediktor is available. If your issue is urgent and you have a Service Level Agreement (SLA), please make sure that you call us at the number you have been given and/or send us an email at support@prediktor.com. 
+## How to reach us
+If you can't find answers to your questions in this help system, please contact us at [support@prediktor.com](mailto:support@prediktor.com). If your issue is urgent and you have a Service Level Agreement (SLA), please make sure that you call us at the number you have been given. 
 
 ![Prediktor](/img/PrediktorLogo.png)
