@@ -47,6 +47,6 @@ Table below summarises KPI's:
 | Performance | [PR Gross Temp Adjusted](./performance/pr_gross_temp_adjusted.md) | Temperature adjusted PR calculation. Basis is “PR Gross” |
 | Performance | [PR Gross Production Loss Temp Adjusted](./performance/pr_gross_production_loss_temp_adjusted.md) | Temperature adjusted PR calculation. Basis is “PR Gross Production Loss” |
 | Performance | [Energy Performance Index](./performance/energy_performance_index.md) | Performance of production vs. irradiation, related to budget and actual |
-| Equipment specific | [Inverter](equipment_specific/inverter.md)| KPI's per inverter |
-| Equipment specific | [String](equipment_specific/string.md)| KPI's per string |
-| Equipment specific | [Tracker](equipment_specific/tracker.md)| KPI's per tracker |
+| Equipment specific | [Inverter](equipment_specific/equipment_inverter.md)| KPI's per inverter |
+| Equipment specific | [String](equipment_specific/equipment_string.md)| KPI's per string |
+| Equipment specific | [Tracker](equipment_specific/equipment_tracker.md)| KPI's per tracker |
