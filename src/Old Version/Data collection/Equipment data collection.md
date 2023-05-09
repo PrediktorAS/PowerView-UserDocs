@@ -1,1 +1,0 @@
-# Equipment Data Collection
