@@ -13,18 +13,18 @@ Table below summarises KPI's:
 | Yield and Weather | [Soiling Index](./yield_and_weather/soiling_index.md) | Plant soiling index, from 0-100. Average value calculated from soiling stations or reference cells |
 | Yield and Weather | [Budget Production](./yield_and_weather/budget_production.md) | Budget production for a plant.  |
 | Yield and Weather | [Budget Irradiation](./yield_and_weather/budget_irradiation.md) | Budget incline irradiation for a plant |
-| Production Loss | [Grid down time production losses](./production_losses/grid_down_time_production_losses.md) | Production losses due to down time on grid (reduced grid availability) |
-| Production Loss | [Plant down time production losses](./production_losses/plant_down_time_production_losses.md) | Production losses due to down time on inverters (reduced plant availability) |
-| Production Loss | [Tracker down time production losses](./production_losses/tracker_down_time_production_losses.md) | Production losses due to non-working trackers (reduced tracker availability) |
-| Production Loss | [String down time production losses](./production_losses/string_down_time_production_losses.mdd) | Production losses due to non-available strings (reduced string availability) |
+| Production Loss | [Grid downtime production losses](./production_losses/grid_down_time_production_losses.md) | Production losses due to downtime on grid (reduced grid availability) |
+| Production Loss | [Plant downtime production losses](./production_losses/plant_down_time_production_losses.md) | Production losses due to downtime on inverters (reduced plant availability) |
+| Production Loss | [Tracker downtime production losses](./production_losses/tracker_down_time_production_losses.md) | Production losses due to non-working trackers (reduced tracker availability) |
+| Production Loss | [String downtime production losses](./production_losses/string_down_time_production_losses.mdd) | Production losses due to non-available strings (reduced string availability) |
 | Production Loss | [Curtailment production losses](./production_losses/curtailment_production_losses.md) | Production losses due to plant curtailment |
 | Production Loss | [Clipping production losses](./production_losses/clipping_production_losses.md) | Production losses due to plant clipping |
 | Production Loss | [Soiling production losses](./production_losses/soiling_production_losses.md) | Production losses due to panel soiling |
 | Production Loss | [Snow production losses](./production_losses/snow_production_losses.md) | Production losses due to snow on panels. |
-| Revenue Loss | [Grid down time revenue loss](./production_losses/grid_down_time_production_losses.md) | Revenue losses due to down time on grid  (reduced grid availability). Energy tariff taken from internal original budget |
-| Revenue Loss | [Plant down time revenue loss](./production_losses/plant_down_time_production_losses.md) | Revenue losses due to down time on inverters (reduced plant availability). Energy tariff taken from internal original budget |
-| Revenue Loss | [Tracker down time revenue loss](./production_losses/tracker_down_time_production_losses.md) | Revenue losses due to non-working trackers (reduced tracker availability). Energy tariff taken from internal original budget |
-| Revenue Loss | [String down time revenue losses](./production_losses/string_down_time_production_losses.md) | Revenue losses due to non-available strings (reduced string availability). Energy tariff taken from internal original budget |
+| Revenue Loss | [Grid downtime revenue loss](./production_losses/grid_down_time_production_losses.md) | Revenue losses due to downtime on grid  (reduced grid availability). Energy tariff taken from internal original budget |
+| Revenue Loss | [Plant downtime revenue loss](./production_losses/plant_down_time_production_losses.md) | Revenue losses due to downtime on inverters (reduced plant availability). Energy tariff taken from internal original budget |
+| Revenue Loss | [Tracker downtime revenue loss](./production_losses/tracker_down_time_production_losses.md) | Revenue losses due to non-working trackers (reduced tracker availability). Energy tariff taken from internal original budget |
+| Revenue Loss | [String downtime revenue losses](./production_losses/string_down_time_production_losses.md) | Revenue losses due to non-available strings (reduced string availability). Energy tariff taken from internal original budget |
 | Revenue Loss | [Curtailment revenue losses](./production_losses/curtailment_production_losses.md) | Revenue losses due to plant clipping. Energy tariff taken from internal original budget |
 | Revenue Loss | [Snow production losses](./production_losses/snow_production_losses.md) | Revenue losses due to snow on panels. Price taken from internal original budget |
 | Revenue Loss | [Clipping revenue losses](./production_losses/clipping_production_losses.md) | Revenue losses due to panel soiling. Energy tariff taken from internal original budget |
