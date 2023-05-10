@@ -1,8 +1,12 @@
-# PR Gross
+# Performance Ratio Gross (PR Gross)
 
-This formula uses PR net as basis. It divides by availability to get a PR only for time when park has produced. 
+Using [Performance Ratio Net](pr_net.md) as basis, we divide by the Plant and Grid Availabilities Daylight to get a rough PR estimate representative for time when park has produced.
 
-- PR Gross = PR Net / PAd / GAdg
-    - PR Net: [Performance ratio net](pr_net.md)
-    - PAd: [Plant availability daylight](../availability_and_downtime/plant_availability.md)
-    - GAdg: [Grid availability daylight gross](../availability_and_downtime/grid_availability.md)
+## Formula
+
+> PR Gross = PR Net / PAd / GAdg
+
+### Variables
+- `PR Net`: [PR Net](pr_net.md)
+- `PAd`: [Plant availability daylight](../availability_and_downtime/plant_availability.md)
+- `GAdg`: [Grid availability daylight gross](../availability_and_downtime/grid_availability.md)
