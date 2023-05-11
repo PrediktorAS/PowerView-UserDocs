@@ -1,20 +1,14 @@
-# Grid down time production loss
+# Production Losses due to Grid downtime
 
-Grid state is classified into following [Equipment States](../../../data_collection/equipment_states/) classes:
+As explained in [Equipment States](../../../data_collection/equipment_states/) grid state is classified into the following classes, where only the middle three are considered as grid downtime and thus production loss:
 - Production time
-- Failure time
-- Idle time
-- Line restraint time
+- __Failure time__
+- __Idle time__
+- __Line restraint time__
 - Unscheduled
 
-“Failure time”, “Idle time” and “Line restraint time” is counted as down time resulting in reduced plant availability and thus production loss due to down time.
+## Formula
+> Grid downtime production loss = [Estimated Production](../yield_and_weather/estimated_production.md) * [AdjustmentFactor](./#adjustment-factor)
 
-Following algorithm is implemented to estimate production loss:
-- Grid down time production loss = [Estimated Production](../yield_and_weather/estimated_production.md) * AdjustmentFactor
-
-Factors calculated as follows:
-- Adjustment factor is calculated based on estimated production and measured production last 10 minutes before grid downtime starts and first 10 minutes after grid downtime ends and formula is:
-    - AdjustmentFactor = [Actual Production](../yield_and_weather/actual_production.md) / [Estimated Production](../yield_and_weather/estimated_production.md)
-    - Clipped [-0.95 , 1.05], meaning max +/- 5% adjustment
-
- For E/W installations, losses for east and west are calculated separately with incline irradiation and module temperature for each orientation and add together
+## East/West installations
+For E/W installations, losses for east and west are calculated separately with incline irradiation and module temperature for each orientation and add together
