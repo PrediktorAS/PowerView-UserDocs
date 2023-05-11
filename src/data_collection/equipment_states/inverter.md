@@ -29,7 +29,7 @@ Standard state codes shown below:
 |Inverter|	404	|Waiting for PV	|Line restraint time||
 |Inverter|	455	|Warning Production	|Production time||
 |Inverter|	1800	|Failure	|Failure time|Yes|
-|Inverter|	2000	|Preventive Maintenance	|Not scheduled||
+|Inverter|	2000	|Preventive Maintenance	|Unscheduled||
 |Inverter|	2001	|Corrective Maintenance	|Failure time|Yes|
 |Inverter|	2002	|Downtime due to utility	|Line restraint time||
 |Inverter|	2003	|Downtime due to Force Majeure	|Line restraint time||
