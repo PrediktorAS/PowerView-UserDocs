@@ -43,9 +43,9 @@ Table below summarises KPI's:
 | Performance | [PR Net](./performance/pr_net.md) | PR basic calculation. Only looking at irradiance and production. Does not adjust for the module degradation in the nominal power. |
 | Performance | [PR Gross](./performance/pr_gross.md) | Uses PR net as basis. Divide by the Plant and Grid Availabilities Daylight to get a rough PR estimate representative for time when park has produced  |
 | Performance | [PR Gross Production Loss](./performance/pr_gross_production_loss.md) | Uses PR net as basis, but production is using measured production + estimated production  |losses due to Plant and Grid downtime. |
-| Performance | [PR Net Temp Adjusted](./performance/pr_net_temp_adjusted.md) | Temperature adjusted PR calculation. Basis is “PR Net” |
-| Performance | [PR Gross Temp Adjusted](./performance/pr_gross_temp_adjusted.md) | Temperature adjusted PR calculation. Basis is “PR Gross” |
-| Performance | [PR Gross Production Loss Temp Adjusted](./performance/pr_gross_production_loss_temp_adjusted.md) | Temperature adjusted PR calculation. Basis is “PR Gross Production Loss” |
+| Performance | [PR Net Temp Adjusted](./performance/pr_temperature_adjusted.md) | Temperature adjusted PR calculation. Basis is “PR Net” |
+| Performance | [PR Gross Temp Adjusted](./performance/pr_temperature_adjusted.md) | Temperature adjusted PR calculation. Basis is “PR Gross” |
+| Performance | [PR Gross Production Loss Temp Adjusted](./performance/pr_temperature_adjusted.md) | Temperature adjusted PR calculation. Basis is “PR Gross Production Loss” |
 | Performance | [Energy Performance Index](./performance/energy_performance_index.md) | Performance of production vs. irradiation, related to budget and actual |
 | Equipment specific | [Inverter](equipment_specific/equipment_inverter.md)| KPI's per inverter |
 | Equipment specific | [String](equipment_specific/equipment_string.md)| KPI's per string |
