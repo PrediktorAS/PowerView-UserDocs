@@ -18,27 +18,27 @@ The following main principle will apply for calculation of the downtimes:
 
 Standard state codes shown below:
 
-|StateType|StateCode|StateName|StateClass|
-|------------|---------|---------|---------|
-|Inverter|	309	|Operation|	Production time|
-|Inverter|	310	|Operation with warning|Production time|
-|Inverter|	311	|Operation with failure|Production time|
-|Inverter|	401	|Warning Idle|	Idle time|
-|Inverter|	402	|Stopped	|Idle time|
-|Inverter|	403	|Not started	|Idle time|
-|Inverter|	404	|Waiting for PV	|Line restraint time|
-|Inverter|	455	|Warning Production	|Production time|
-|Inverter|	1800	|Failure	|Failure time|
-|Inverter|	2000	|Preventive Maintenance	|Unscheduled|
-|Inverter|	2001	|Corrective Maintenance	|Failure time|
-|Inverter|	2002	|Downtime due to utility	|Line restraint time|
-|Inverter|	2003	|Downtime due to Force Majeure	|Line restraint time|
-|Inverter|	1500	|No power production	|Not Scheduled|
-|Inverter|	1501	|Grid down	|Line restraint time|
-|Inverter|	1502	|Grounded	|Idle time|
-|Inverter|	1503	|Statcom	|Line restraint time|
-|Inverter|	10200	|Night failure	|Not Scheduled|
-|Inverter|	10201	|Night warning	|Not Scheduled|
-|Inverter|	10202	|Night grounded	|Not Scheduled|
+|StateType|StateCode|StateName|StateClass|DownTime|
+|------------|---------|---------|---------|---------|
+|Inverter|	309	|Operation|	Production time||
+|Inverter|	310	|Operation with warning|Production time||
+|Inverter|	311	|Operation with failure|Production time||
+|Inverter|	401	|Warning Idle|	Idle time|Yes|
+|Inverter|	402	|Stopped	|Idle time|Yes|
+|Inverter|	403	|Not started	|Idle time|Yes|
+|Inverter|	404	|Waiting for PV	|Line restraint time||
+|Inverter|	455	|Warning Production	|Production time||
+|Inverter|	1800	|Failure	|Failure time|Yes|
+|Inverter|	2000	|Preventive Maintenance	|Unscheduled||
+|Inverter|	2001	|Corrective Maintenance	|Failure time|Yes|
+|Inverter|	2002	|Downtime due to utility	|Line restraint time||
+|Inverter|	2003	|Downtime due to Force Majeure	|Line restraint time||
+|Inverter|	1500	|No power production	|Not Scheduled||
+|Inverter|	1501	|Grid down	|Line restraint time||
+|Inverter|	1502	|Grounded	|Idle time|Yes|
+|Inverter|	1503	|Statcom	|Line restraint time||
+|Inverter|	10200	|Night failure	|Not Scheduled|Yes|
+|Inverter|	10201	|Night warning	|Not Scheduled|Yes| 
+|Inverter|	10202	|Night grounded	|Not Scheduled|Yes|
 
  
