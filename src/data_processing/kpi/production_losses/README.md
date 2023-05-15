@@ -17,6 +17,7 @@ The result will be clipped [-0.95 , 1.05], meaning max +/- 5% adjustment
 
 ## List of KPIs
 
+<!--- TODO: The revenue loss is not explained -->
 | KPI Type | KPI name | KPI description |
 |---------|---------|---------|
 | Production Loss | [Grid downtime production losses](grid_down_time_production_losses.md) | Production losses due to downtime on grid (reduced grid availability) |
@@ -27,7 +28,6 @@ The result will be clipped [-0.95 , 1.05], meaning max +/- 5% adjustment
 | Production Loss | [Clipping production losses](clipping_production_losses.md) | Production losses due to plant clipping |
 | Production Loss | [Soiling production losses](soiling_production_losses.md) | Production losses due to panel soiling |
 | Production Loss | [Snow production losses](snow_production_losses.md) | Production losses due to snow on panels. |
-<!--- TODO: The revenue loss is not explained -->
 | Revenue Loss | [Grid downtime revenue loss](grid_down_time_production_losses.md) | Revenue losses due to downtime on grid  (reduced grid availability). Energy tariff taken from internal original budget |
 | Revenue Loss | [Plant downtime revenue loss](plant_down_time_production_losses.md) | Revenue losses due to downtime on inverters (reduced plant availability). Energy tariff taken from internal original budget |
 | Revenue Loss | [Tracker downtime revenue loss](tracker_down_time_production_losses.md) | Revenue losses due to non-working trackers (reduced tracker availability). Energy tariff taken from internal original budget |

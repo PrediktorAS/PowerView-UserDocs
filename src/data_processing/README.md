@@ -7,4 +7,3 @@ Sub chapter covers the following main topics:
 - [KPI Calculations](kpi/)
 - [Forecast Data](./forecast_data.md)
 - [Satellite Weather Data](./satellite_weather_data.md)
-- [Budget Data](./budget_data.md)
