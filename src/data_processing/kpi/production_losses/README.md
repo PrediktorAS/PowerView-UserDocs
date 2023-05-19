@@ -10,7 +10,7 @@ Production losses are based on data from plants. Losses are calculated per 10 mi
 ## Adjustment Factor
 For some production loss calculations, an adjustment factor is used. This is used to adjust the estimated production to the actual production. The adjustment factor is calculated based on estimated production and measured production last 10 minutes before the loss starts and first 10 minutes after loss ends and formula is:
 
-> AdjustmentFactor = [Actual Production](../yield_and_weather/actual_production.md) / [Estimated Production](../yield_and_weather/estimated_production.md)
+> AdjustmentFactor = [Actual Production](../yield_and_weather/production.md) / [Estimated Production](../yield_and_weather/estimated_production.md)
 
 <!--- TODO: Double check the clipping (not clear in the old docs) -->
 The result will be clipped [-0.95 , 1.05], meaning max +/- 5% adjustment

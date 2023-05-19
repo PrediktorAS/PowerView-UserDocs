@@ -16,7 +16,7 @@ Definition of factors:
 -	Sum downtime grid full day 
     - Total down time 24/7 
     - Down time full day is calculated as sum of periods when grid state is in state classes “Idle time”, “Failure time” or “Line restraint” or when state code>10000 (e.g. No power production, grid down)
--	E_meas_gross = [Actual production](../yield_and_weather/actual_production.md) + [Grid Downtime Production Losses](../production_losses/grid_down_time_production_losses.md) + [Plant Downtime Production Losses](../production_losses/plant_down_time_production_losses.md) + [Curtailment Production Losses](../production_losses/curtailment_production_losses.md)
+-	E_meas_gross = [Actual production](../yield_and_weather/production.md) + [Grid Downtime Production Losses](../production_losses/grid_down_time_production_losses.md) + [Plant Downtime Production Losses](../production_losses/plant_down_time_production_losses.md) + [Curtailment Production Losses](../production_losses/curtailment_production_losses.md)
 
 For PR Gross calculation, a special formula is used: “Grid availability daylight gross” (GAdg)
 

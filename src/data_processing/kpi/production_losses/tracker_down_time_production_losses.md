@@ -27,7 +27,7 @@ Negative tracker losses not allowed: when `E_loss_tracker < 0` then `E_loss_trac
 > E_ref = E_plant * ( Pnom_tracker /  Pnom_plant )
 
 - `E_plant`: plant production
-    - [Actual Production](../yield_and_weather/actual_production.md) on plant
+    - [Actual Production](../yield_and_weather/production.md) on plant
     - If E_measured_plant does not exist for 10 min period, use [Estimated Production](../yield_and_weather/estimated_production.md) 
 - `Pnom_tracker`: nominal DC power connected to tracker
 - `Pnom_plant`: nominial DC power for plant
@@ -41,8 +41,8 @@ Incline irradiance for reference trackers calculated from GHI_measured and track
 > GII_reference = diffuse_fraction * GHI_measured * 0.5 * (1 + cos(theta_reference)) + (1 - diffuse_fraction) * DNI * cos(aoi_reference)
 
 #### GII Variables
-- `GHI_measured` is measured [horizontal irradiation](../yield_and_weather/horizontal_irradiation.md)
-- `GII_measured` is measured [incline irradiation](../yield_and_weather/incline_irradiation.md)
+- `GHI_measured` is measured [horizontal irradiation](../yield_and_weather/irradiation.md)
+- `GII_measured` is measured [incline irradiation](../yield_and_weather/irradiation.md)
 - `theta_tracker` and `theta_reference` are measured tracker angles for parked and working reference trackers respectively
     - Reference trackers: Using median angles for working trackers for plant
 - `DNI`: DNI is direct normal irradiation

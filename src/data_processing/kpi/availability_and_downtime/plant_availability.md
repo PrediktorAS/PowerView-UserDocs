@@ -16,7 +16,7 @@ Definition of factors:
 -	Sum downtime inverters full day 
     - Total down time 24/7, weighted based on inverter nominal DC power.  
     - Down time is calculated as sum of periods when inverter state is in state classes “Idle time” or “Failure time” or when state code>10000 (e.g. Stop, no power production)
--	E_meas_gross = [Actual production](../yield_and_weather/actual_production.md) + [Grid Downtime Production Losses](../production_losses/grid_down_time_production_losses.md) + [Plant Downtime Production Losses](../production_losses/plant_down_time_production_losses.md) 
+-	E_meas_gross = [Actual production](../yield_and_weather/production.md) + [Grid Downtime Production Losses](../production_losses/grid_down_time_production_losses.md) + [Plant Downtime Production Losses](../production_losses/plant_down_time_production_losses.md) 
 
 
 For states see [Inverter States](../../../data_collection/equipment_states/inverter.md)

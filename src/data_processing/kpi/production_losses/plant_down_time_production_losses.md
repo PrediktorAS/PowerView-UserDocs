@@ -43,7 +43,7 @@ Following algorithm is implemented in SCADA to estimate production loss on inver
 - `PR_reference`: 
     -Calculate a reference “PR Gross Production Loss” or the reference period of 5 (full) days prior to the day in which the downtime occurs (including the effects of any production loss during that reference period) 
 - `NomPowerInverter`: Nominal DC power of inverter
-- [Incline Irradiation](../yield_and_weather/incline_irradiation.md)
+- [Incline Irradiation](../yield_and_weather/irradiation.md)
     - Incline pyranometer value for plant
     - If no irradiation exists for 10 minute period:
         - Use irradiation for same time previous day is used. 20 days back is checked. 
