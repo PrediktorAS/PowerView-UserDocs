@@ -13,7 +13,7 @@ Curtailment losses are calculated for each 10 minute period based on registered 
 For each period, estimated production is calculated based on measured irradiation and available nominal power. The difference between estimated and measured value is defined as the losses.
 
 #### Calculations
-> Curtailment losses = ([Estimated Production](../yield_and_weather/estimated_production.md) * [AdjustmentFactor](./#adjustment-factor)) - [Actual Production](../yield_and_weather/actual_production.md) 
+> Curtailment losses = ([Estimated Production](../yield_and_weather/estimated_production.md) * [AdjustmentFactor](./#adjustment-factor)) - [Actual Production](../yield_and_weather/production.md) 
 
 If measured power is not close to the curtailment limit, the losses are set to 0. Detection limit is 95%, meaning measured power on PPC (or PPC power analyser) must be more than 95% of PPC active power setpoint value to calculate losses. If PPC active power setpoint value is 0, curtailment losses also calculated.
  
@@ -23,10 +23,10 @@ A set of reference inverters can be specified for each site. These inverters wil
 To get the total plant production, ratio between full production and reference inverter production is calculated for the last 7 days to scale up inverter production.
 
 #### Calculations
-> Curtailment Losses = [E_estimatedRefInverters](#calculations-for-e_estimatedrefinverters) - [Actual Production](../yield_and_weather/actual_production.md)
+> Curtailment Losses = [E_estimatedRefInverters](#calculations-for-e_estimatedrefinverters) - [Actual Production](../yield_and_weather/production.md)
 
 ##### Calculations for E_estimatedRefInverters
 > E_estimatedRefInverters = E_RefInverters * RollingScalingFactor
 
 - `E_RefInverters`: The measured total energy of the reference inverters 
-- `RollingScalingFactor` = [Actual Production](../yield_and_weather/actual_production.md) / `E_RefInverters` for the last 7 days (rolling), during times without curtailment
+- `RollingScalingFactor` = [Actual Production](../yield_and_weather/production.md) / `E_RefInverters` for the last 7 days (rolling), during times without curtailment

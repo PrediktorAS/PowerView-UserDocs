@@ -12,7 +12,7 @@ Snow losses are detected based on following check:
 
 If snow losses are detected snow losses are calculated as:
 
-> Production Loss Snow = Estimated_Production_Snow - [Actual Production](../yield_and_weather/actual_production.md) - [String downtime production loss](string_down_time_production_losses.md) - [Trackers Downtime Production Loss](tracker_down_time_production_losses) - [Plant Downtime Production Loss](plant_down_time_production_losses) 
+> Production Loss Snow = Estimated_Production_Snow - [Actual Production](../yield_and_weather/production.md) - [String downtime production loss](string_down_time_production_losses.md) - [Trackers Downtime Production Loss](tracker_down_time_production_losses) - [Plant Downtime Production Loss](plant_down_time_production_losses) 
 
 - `Estimated_Production_Snow`: Estimated production formula calculating [Estimated Production](../yield_and_weather/estimated_production.md) using maximum irradiation value from each single incline pyranometer value as irradiation source
     

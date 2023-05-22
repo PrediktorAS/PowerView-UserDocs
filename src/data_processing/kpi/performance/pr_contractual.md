@@ -7,7 +7,7 @@ The Contractual PR formula is in general customer and project specific, so the f
 > PR Contractual = ( E_Meas * Is ) / ( Pnom * Xd * Iacc * Kd * A )
 
 ### Variables
-- `E_Meas`: [Actual Production](../yield_and_weather/actual_production.md)
+- `E_Meas`: [Actual Production](../yield_and_weather/production.md)
 - `Is`: Irradiance at standard test conditions, constant 1000 W/m2
 - `Xd`: Module degradation factor, see formula below <!--- TODO: Where is the "formula below?" -->
 - `Pnom`: Nominal DC power of plant (sum of installed panels)
@@ -18,7 +18,7 @@ The Contractual PR formula is in general customer and project specific, so the f
 
 ### Plant Loss Factor (`Kd`) formula
 > Kd = `E_Meas` / ( `E_Meas` + `Curtailment Production Loss` + `Grid Downtime Production Loss` + `Other excluded losses` )
-- `E_Meas`: [Actual Production](../yield_and_weather/actual_production.md)
+- `E_Meas`: [Actual Production](../yield_and_weather/production.md)
 - `Curtailment Production Loss`: [Curtailment Production Loss](../production_losses/curtailment_production_losses.md)
 - `Grid Downtime Production Loss`: [Grid Downtime Production Loss](../production_losses/grid_down_time_production_losses.md)
 - `Other excluded losses`: E_meas * (1 – Manual correction factor)  / Manual correction factor

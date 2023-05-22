@@ -7,7 +7,7 @@ The most basic PR calculation. It is only looking at irradiance and production a
 > PR net = E_Meas * Is / Pnom / Incline Irradiation
 
 ### Variables
-- `E_Meas`: [Actual Production](../yield_and_weather/actual_production.md)
+- `E_Meas`: [Actual Production](../yield_and_weather/production.md)
 - `Is`: Irradiation at standard test conditions, constant 1000 W/m2
 - `Pnom`: Nominal DC power of the plant, as in the sum of all installed modules.
-- `Incline Irradiation`: [`Incline Irradiation`](../yield_and_weather/incline_irradiation.md)
+- `Incline Irradiation`: [`Incline Irradiation`](../yield_and_weather/irradiation.md)
