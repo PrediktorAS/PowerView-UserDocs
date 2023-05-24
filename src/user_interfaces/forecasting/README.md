@@ -3,6 +3,7 @@
 See [Forecast Data](../../data_processing/forecast_data.md) for description of data.
 
 Following sub topics here:
+
 - [Data Sources and Processing](data_sources_and_processing.md)
 - [Planned Power Reduction](planned_power_reduction.md)
 - [Reporting](Reporting/Reporting.md)
