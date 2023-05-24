@@ -11,7 +11,6 @@ As the production of renewable energy is largely dependent on the weather, we ne
 * [What is weather data?](what_is_weather_data.md)
 * [Sources of weather data](sources_of_weather_data.md)
 * [Observed vs. Predicted weather](observed_predicted_weather.md)
-* [Budgeting weather](budgeting_weather.md)
 
 ## Budgeted weather
 
