@@ -11,7 +11,7 @@
 - [Architecture](architecture/README.md)
   - [Signal collection](architecture/signals/README.md)
     - [OS and High Availability](architecture/signals/running_environment.md)
-    - [Virtual migration of data](architecture/signals/vertical_migration.md)
+    - [Vertical migration of data](architecture/signals/vertical_migration.md)
   - [Advanced analytics](architecture/advanced_analytics/README.md)
     - [Environment and Infrastructure](architecture/advanced_analytics/running_environment.md)
   - [Auxiliary Services](architecture/auxiliary/README.md)
