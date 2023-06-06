@@ -14,6 +14,7 @@
     - [Vertical migration of data](architecture/signals/vertical_migration.md)
   - [Advanced analytics](architecture/advanced_analytics/README.md)
     - [Environment and Infrastructure](architecture/advanced_analytics/running_environment.md)
+    - [Synchronizing with other systems](architecture/advanced_analytics/synchronizing.md)
   - [Auxiliary Services](architecture/auxiliary/README.md)
     - [Environment and Infrastructure](architecture/auxiliary/running_environment.md)
   - [Interface Architecture](architecture/interfaces/README.md)
