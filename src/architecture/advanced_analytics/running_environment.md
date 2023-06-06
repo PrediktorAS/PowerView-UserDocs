@@ -2,7 +2,7 @@
 
 Most of the advanced analytics functionality is centered around Microsoft SQL Server. This includes the data storage, the data processing, and the data presentation. The advanced analytics functionality is built on top of the SQL Server platform, and it is designed to take advantage of the built-in functionality of SQL Server. This includes the built-in functionality for high availability, scalability, and security.
 
-## On-prem or Cloud
+## On-premise or Cloud
 
 The advanced analytics functionality can be deployed in an on-premises environment, in a cloud environment, or in a hybrid environment. The choice of environment is based on your demands for availability, functionality, and security.
 
@@ -10,7 +10,7 @@ With MS SQL Server being a requirement and some of the more advanced functionali
 
 ## High Availability
 
-Analytics is a mission critical functionality for many of our customers, and as such, high availability is a key requirement. The advanced analytics functionality is designed to be highly available, and it is built on top of the built-in high availability functionality of SQL Server. Where applicablee, we can use the synchronization feature described [here](synchronization.md). We usually design the solution together with the customer, and the discussion is centered around the following principles:
+Analytics is a mission critical functionality for many of our customers, and as such, high availability is a key requirement. The advanced analytics functionality is designed to be highly available, and it is built on top of the built-in high availability functionality of SQL Server. Where applicable, we can use the synchronization feature described [here](synchronization.md). We usually design the solution together with the customer, and the discussion is centered around the following principles:
 
 * What is the criticality of the solution?
 * KPIs and predictions are usually not mission critical, but they are important for the business. Are there any KPIs or predictions that are mission critical? E.g. reporting to third parties?
