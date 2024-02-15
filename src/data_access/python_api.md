@@ -15,39 +15,39 @@ If you'd like to contribute to pyPrediktorMapClient, please follow the steps bel
 
 ## Get the code
 1. First clone the repository and navigate to the main folder of repository.
-```
+*****
 git clone git@github.com:PrediktorAS/pyPrediktorMapClient.git
-```
+*****
 
 ## Setup
 2. Create Virtual environment
-```
+*****
 python3 -m venv .venv
 source .venv/bin/activate
-```
+*****
 
 3. Install dependencies
 As this is a python package, dependencies are in setyp.py _(actually in setup.cfg,
 as this is a pyScaffold project)_. Requirements.txt will perform the correct
 installation and add a couple of additional packages.
 
-```
+*****
 pip install -r requirements.txt
-```
+*****
 
 ## Run and build
 4. Run tests
-```
+*****
 tox
-```
+*****
 
 5. Do your changes
 Add your changes and create a new PR to be approved.
 
 6. Build
-```
+*****
 tox -e build
-```
+*****
 
 ## Changes
 7. Please apply your changes. If they will facilitate the work of the person using pyPrediktorMapClient, especially the new features you've implemented, ensure that you describe your changes comprehensively and provide guidance in the README.md file under the chapter `Manual - How to Use` (check below).
@@ -56,15 +56,15 @@ tox -e build
 
 ## Publish
 9. Publish to PyPi test and live
-```
+*****
 tox -e publish
 tox -e publish -- --repository pypi
-```
+*****
 
 ## Possible errors
 When running `tox` command it may happen to face the following error (or similar):
 
-```
+*****
 ImportError while importing test module '/PATH_TO_PROJECT/pyPrediktorMapClient/tests/test_dwh.py'.
 Hint: make sure your test modules/packages have valid Python names.
 Traceback:
@@ -75,20 +75,20 @@ tests/test_dwh.py:4: in <module>
 src/pyprediktormapclient/dwh.py:1: in <module>
     import pyodbc
 E   ImportError: dlopen(/PATH_TO_PROJECT/pyPrediktorMapClient/.tox/default/lib/python3.10/site-packages/pyodbc.cpython-310-darwin.so, 0x0002): symbol not found in flat namespace '_SQLAllocHandle'
-```
+*****
 
 A possible solution is to rebuild pyodbc via:
-```
+*****
 pip uninstall pyodbc
 pip install --force-reinstall --no-binary :all: pyodbc
-```
+*****
 
 on Mac:
-```
+*****
 export LDFLAGS="-L/opt/homebrew/lib"
 export CPPFLAGS="-I/opt/homebrew/include"
 .tox/default/bin/pip install --force-reinstall --no-binary :all: pyodbc
-```
+*****
 
 The last commands adjust the environment variables to point to your Homebrew
 installation paths and then rebuild pyodbc. In that way we make sure
@@ -100,7 +100,7 @@ Also, make sure to run these commands within the activated tox environment.
 # Manual - How to Use
 ## ModelIndex
 Example:
-```
+*****
 from pyprediktormapclient.model_index import ModelIndex
 from pyprediktormapclient.opc_ua import OPC_UA
 
@@ -108,7 +108,7 @@ model = ModelIndex(url=your_model_index_url)
 tsdata = OPC_UA(rest_url=your_opcua_rest_url, opcua_url=your_opcua_server_uri)
 
 obj_types = model.get_object_types()
-```
+*****
 
 ## DWH
 ### Introduction
@@ -126,9 +126,9 @@ When initialising DWH you have to pass the patameters below following the same o
 - SQL_USER
 - SQL_PASSWORD
 
-```
+*****
 dwh = DWH(SQL_SERVER, SQL_DATABASE, SQL_USER, SQL_PASSWORD)
-```
+*****
 
 There is fifth parameter `SQL_DRIVER_INDEX` but it is not required. If you do not pass the driver index, pyPrediktorMapClient is going to check two things:
 
@@ -139,47 +139,47 @@ pyPrediktorMapClient is going to choose the first one from the list of supported
 
 If you would like to pick up a particular driver you have to do the above yourself and pass the desired driver index. Here is an example how to do that. First we get a list of available drivers supported by `pyodbc`:
 
-```
+*****
 available_drivers = pyodbc.drivers()
-```
+*****
 
 Let's say that list contains the following drivers:
-```
+*****
 [
     'ODBC Driver 18 for SQL Server',
     'ODBC Driver 13 for SQL Server',
     'ODBC Driver 17 for SQL Server'
 ]
-```
+*****
 
 and you'd like to use the third one. Threfore the driver index you have to pass when initialising DWH equals 2 _(because that is the index of the driver in the list)_:
 
-```
+*****
 driver_index = 2
 dwh = DWH(SQL_SERVER, SQL_DATABASE, SQL_USER, SQL_PASSWORD, driver_index)
-```
+*****
 
 ### Low level usage
-```
+*****
 from pyprediktormapclient.dwh import DWH
 
 dwh = DWH("localhost", "mydatabase", "myusername", "mypassword")
 results = dwh.fetch("SELECT * FROM mytable")
 dwh.execute("INSERT INTO mytable VALUES (1, 'test')")
-```
+*****
 
 ### High level usage
 #### Database version
 Get the database version:
-```
+*****
 from pyprediktormapclient.dwh import DWH
 
 dwh = DWH("localhost", "mydatabase", "myusername", "mypassword")
 database_version = dwh.version()
-```
+*****
 
 #### Plant
-```
+*****
 from pyprediktormapclient.dwh import DWH
 
 dwh = DWH("localhost", "mydatabase", "myusername", "mypassword")
@@ -202,10 +202,10 @@ dwh.plant.insert_log(
     has_thrown_error,
     message
 )
-```
+*****
 
 #### Solcast
-```
+*****
 from pyprediktormapclient.dwh import DWH
 
 dwh = DWH("localhost", "mydatabase", "myusername", "mypassword")
@@ -215,10 +215,10 @@ plants_to_update = dwh.solcast.get_plants_to_update()
 plantname = 'PlantName'
 solcast_forecast_data = {'key': 'some data'}
 dwh.solcast.upsert_forecast_data(plantname, solcast_forecast_data)
-```
+*****
 
 #### Enercast
-```
+*****
 from pyprediktormapclient.dwh import DWH
 
 dwh = DWH("localhost", "mydatabase", "myusername", "mypassword")
@@ -230,7 +230,7 @@ live_meter_data = dwh.enercast.get_live_meter_data(asset_name)
 
 enercast_forecast_data = {'key': 'some data'}
 dwh.enercast.upsert_forecast_data(enercast_forecast_data)
-```
+*****
 
 ## Want to know more?
 Further information, documentation and module reference on
