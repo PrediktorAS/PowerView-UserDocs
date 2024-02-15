@@ -6,3 +6,5 @@ Soiling is dust and grime gathering on the panels, reducing the amount of light 
 
 > Soiling losses = ([Actual Production](../yield_and_weather/production.md) / (1-([Soiling Index](../yield_and_weather/soiling_index.md)/100))) - [Actual Production](../yield_and_weather/production.md)
 
+Soiling losses is set to 0 when snow losses are detected and calculated. 
+

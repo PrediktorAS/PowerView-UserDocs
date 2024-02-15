@@ -15,6 +15,9 @@ If data is missing for a period, data is backfilled from external data source.
 
 Incline irradiation for east/west oriented plants are calculated as the weighted average of east and west oriented irradiation (Weighted by nominal power in east and west direction)
 
+# Incline Irradiation No Grid Outage or Curtailment
+
+Calculated as Incline Irradiation above, but only for 10 minute time periods having no grid down time or curtailment.
 
 ## Horizontal Irradiation
 
