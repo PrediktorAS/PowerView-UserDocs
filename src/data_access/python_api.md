@@ -1,7 +1,5 @@
 # Introduction to pyPrediktorMapClient
 
-    Helper functions for Prediktor Map Services
-
 Helper functions for communicating with Prediktors OPC UA ModelIndex REST-API
 and OPC UA Values REST-API. Typically used for data anlytics purposes, you'll
 find Jypiter Notebooks with examples in the notebooks folder.
