@@ -174,6 +174,8 @@
   - [REST API’s](data_access/rest_api.md)
   - [OPC UA](data_access/opc_ua.md)
   - [SQL](data_access/sql.md)
+  - [des-client-libs](data_access/des-client-libs/README.md)
+    - [PView DWH functions](data_access/des-client-libs/DES_DWH_Methods.md)
 
 - [Configuration & Administration](admin/README.md)
   - [System Administration](admin/README.md)
