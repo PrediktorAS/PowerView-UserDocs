@@ -9,20 +9,20 @@ Description: Fact table with aggregated equipment availability numbers for a fac
 
 | Column name | Data type | Nullable| Column description |
 |---------|---------|---------|---------|
-|FactAvailabilityID|int(4)|||
-|FacilityKey|int(4)|||
-|DateAndHourKey|int(4)|||
-|MinuteKey|int(4)|||
-|PeriodStartTime|datetime(8)|||
-|PeriodEndTime|datetime(8)|||
-|InverterSecondsTotal|float(8)|||
-|InverterSecondsDaylight|float(8)|||
-|InverterSecondsWeighted_Idle|float(8)|||
-|InverterSecondsWeighted_Operation|float(8)|||
-|InverterSecondsWeighted_Failure|float(8)|||
-|InverterSecondsWeighted_LineRestraint|float(8)|||
-|InverterSecondsWeighted_NotScheduled|float(8)|||
-|InverterSecondsWeighted_DownTimeNight|float(8)|||
+|FactAvailabilityID|int(4)||Primary key column|
+|FacilityKey|int(4)||Forreign key to DimFacility table|
+|DateAndHourKey|int(4)||Forreign key to DimDateAndHour table|
+|MinuteKey|int(4)||Forreign key to DimMinute table|
+|PeriodStartTime|datetime(8)||Start time internal|
+|PeriodEndTime|datetime(8)||End time internal|
+|InverterSecondsTotal|float(8)||Total number of seconds for inverters in interval|
+|InverterSecondsDaylight|float(8)||Daylights seconds for inverters in interval|
+|InverterSecondsWeighted_Idle|float(8)||Idle seconds for inverters in interval|
+|InverterSecondsWeighted_Operation|float(8)||Operation seconds for inverters in interval|
+|InverterSecondsWeighted_Failure|float(8)||Failure seconds for inverters in interval|
+|InverterSecondsWeighted_LineRestraint|float(8)||Line restraint seconds for inverters in interval|
+|InverterSecondsWeighted_NotScheduled|float(8)||Not scheduled seconds for inverters in interval|
+|InverterSecondsWeighted_DownTimeNight|float(8)||Down time seconds for inverters in interval|
 |GridSecondsTotal|float(8)|||
 |GridSecondsDaylight|float(8)|||
 |GridSeconds_Idle|float(8)|||
