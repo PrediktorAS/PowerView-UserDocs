@@ -15,7 +15,9 @@ This guide outlines the steps to prepare a local environment for using the pyPre
 ### Step 1: Prerequisites
 Before diving into the installation, make sure you have the following prerequisites ready:
 - **Python**: The latest version of Python installed on your system.
-- **VPN Connection**: If necessary, establish a connection to the Prediktor VPN network to ensure access to the internal APIs..
+- **Network Connection**: Access is configured as follows;
+    - ***Internal Services***: Accessible via internal IP addresses without authentication, directly or through the VPN.
+    - ***External Services***: Accessible via public IP addresses with token-based authentication, without VPN requirements. 
 
 ### Step 2: Cloning and Environment Setup
 
@@ -63,16 +65,21 @@ pip install -r requirements.txt
 The library facilitates interaction with various data types based on the objects in the Modelindex. To get started, open the `Exploring_API_Functions_Authentication` Jupyter notebook in the `notebooks` folder. This notebook:
 1. **Import Packages and Modules**: Start by importing all necessary Python packages and specific functionalities like OPC UA and ModelIndex from the src folder.
 3. **Load Credentials**: Load environment variables (credentials) from the `.env` file.
-4. **Authenticate**: Obtain the authentication token required for accessing the certain APIs.
+4. **Authenticate**: Obtain the authentication token required for accessing the APIs if the network connection type is external services.
 ```python
 auth_client = AUTH_CLIENT(rest_url=ory_url, username=username, password=password)
 ```
 
 ### Using the ModelIndex API
 Once authenticated, can can start interacting with the ModelIndex APIs.  
-1. **Connect to ModelIndex API**: Establish a connection using the authentication token.
+1. **Connect to ModelIndex API**: Establish a connection according to network connection;
+- Using the authentication token:
 ```python
 model_data = ModelIndex(url=model_index_url, auth_client=auth_client, session=auth_client.session)
+```
+- Without authentication token:
+```python
+model_data = ModelIndex(url=model_index_url)
 ```
 2. **Retrieve Model URIs**: Obtain a list of dictionaries containing the Model URIs and their corresponding indices.
 ```python
@@ -101,8 +108,13 @@ trackers_as_json = model_data.get_object_ancestors("TrackerType", string_sets_fo
 ### Accessing OPC UA API
 The same authentication token allows for OPC UA API access.  
 1. **Connect to OPC UA API**: Similar to ModelIndex API, establish a connection tailored for OPC UA functionalities.
+- With authentication token:
 ```python
 opc_data = OPC_UA(rest_url=opcua_rest_url, opcua_url=opcua_server_url, namespaces=namespace_list, auth_client=auth_client)
+```
+- Without authentication token:
+```python
+opc_data = OPC_UA(rest_url=opcua_rest_url, opcua_url=opcua_server_url, namespaces=namespace_list)
 ```
 2. **Retrieve Live Values**: Fetch current values of signals, including their timestamp and quality, from an OPC UA server.
 ```python
