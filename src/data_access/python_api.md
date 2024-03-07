@@ -122,7 +122,15 @@ live_value = opc_data.get_values(
     trackers.variables_as_list(["AngleMeasured", "AngleSetpoint"])
 )
 ```
-3. **Historical Data**: Obtain historical data for analysis, allowing for insights over time.  
+3. **Raw Historical Data**: Retrieve raw historical data without any aggregation.  
+```python
+one_day_raw_historic_tracker_data = opc_data.get_historical_raw_values(
+    start_time=(datetime.datetime.now() - datetime.timedelta(30)),
+    end_time=(datetime.datetime.now() - datetime.timedelta(29)),
+    variable_list=trackers.variables_as_list(["AngleSetpoint"]),
+)
+```
+4. **Historical Data**: Obtain historical data for analysis, allowing for insights over time.  
 ```python
 one_day_historic_tracker_data = opc_data.get_historical_aggregated_values(
     start_time=(datetime.datetime.now() - datetime.timedelta(30)),
